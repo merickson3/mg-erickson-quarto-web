@@ -1,0 +1,27 @@
+---
+authors: Erickson, MaryGrace; Rovai, Maristela; Villamediana, Patricia;
+  Schmidt, Amy M.; Stowell, Richard R.; Cortus, Erin L.
+image: pub_images//erickson_building_2025.png
+img_exists: "FALSE"
+link: "https://academic.oup.com/tas/article-abstract/doi/10.1093/tas/txaf038/8092851"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_building_2025.pdf
+title: Building value for dairy farmers and advisors in the Farmers
+  Assuring Responsible Management Environmental Stewardship Program
+toc-title: Table of contents
+year: 2025
+---
+
+.na.character
+
+## Reference
+
+Erickson M, Rovai M, Villamediana P, Schmidt AM, Stowell RR, Cortus EL
+(2025). "Building value for dairy farmers and advisors in the Farmers
+Assuring Responsible Management Environmental Stewardship Program."
+*Translational Animal Science*, *9*, txaf038. Publisher: Oxford
+University Press US,
+<https://academic.oup.com/tas/article-abstract/doi/10.1093/tas/txaf038/8092851>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

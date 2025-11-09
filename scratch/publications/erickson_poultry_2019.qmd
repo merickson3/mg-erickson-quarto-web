@@ -1,0 +1,28 @@
+---
+authors: Erickson, Mary G.; Erasmus, Marisa A.; Karcher, Darrin M.;
+  Knobloch, Neil A.; Karcher, Elizabeth L.
+image: pub_images//erickson_poultry_2019.png
+img_exists: "FALSE"
+link: "https://www.sciencedirect.com/science/article/pii/S0032579119579688"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_poultry_2019.pdf
+title: "Poultry in the classroom: effectiveness of an online
+  poultry-science-based education program for high school STEM
+  instruction"
+toc-title: Table of contents
+year: 2019
+---
+
+.na.character
+
+## Reference
+
+Erickson MG, Erasmus MA, Karcher DM, Knobloch NA, Karcher EL (2019).
+"Poultry in the classroom: effectiveness of an online
+poultry-science-based education program for high school STEM
+instruction." *Poultry Science*, *98*(12), 6593-6601. Publisher:
+Elsevier,
+<https://www.sciencedirect.com/science/article/pii/S0032579119579688>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

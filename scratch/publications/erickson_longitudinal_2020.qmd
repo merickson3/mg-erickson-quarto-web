@@ -1,0 +1,24 @@
+---
+authors: Erickson, MaryGrace; Wattiaux, Michel A.; Karcher, Elizabeth L.
+image: pub_images//erickson_longitudinal_2020.png
+img_exists: "FALSE"
+link: "https://acsess.onlinelibrary.wiley.com/doi/10.1002/nse2.20031"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_longitudinal_2020.pdf
+title: Longitudinal measurement invariance and stability of individual
+  interest across a 16‐week introductory animal sciences course
+toc-title: Table of contents
+year: 2020
+---
+
+## Reference
+
+Erickson M, Wattiaux MA, Karcher EL (2020). "Longitudinal measurement
+invariance and stability of individual interest across a 16‐week
+introductory animal sciences course." *Natural Sciences Education*,
+*49*(1), e20031. ISSN 2168-8273, 2168-8281, doi:10.1002/nse2.20031
+<https://doi.org/10.1002/nse2.20031>,
+<https://acsess.onlinelibrary.wiley.com/doi/10.1002/nse2.20031>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

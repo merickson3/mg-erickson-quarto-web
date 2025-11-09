@@ -1,0 +1,63 @@
+---
+authors: Erickson, M. G.; Reinhardt, L. A.; Svaren, L.; Sullivan, M. L.;
+  Zanton, G. I.; Wattiaux, M. A.
+image: pub_images//erickson_crude_2024.png
+img_exists: "FALSE"
+link: "https://www.sciencedirect.com/science/article/pii/S0022030224000092"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_crude_2024.pdf
+title: "Crude protein oscillation in diets adequate and deficient in
+  metabolizable protein: effects on nutrient digestibility, nitrogen
+  balance, plasma amino acids, and greenhouse gas emissions"
+toc-title: Table of contents
+year: 2024
+---
+
+Reducing dietary crude protein (CP) is a well-established means to
+improve N use efficiency. Yet, few studies have considered if transient
+restrictions in dietary CP could reduce the environmental footprint of
+late lactation cows. We hypothesized that the effects of CP feeding
+pattern on digestibility and environmental outputs would be amplified at
+lower dietary CP. We tested CP levels below and near predicted
+requirements (LP, 13.8%; HP, 15.5%) offered in 2 feeding patterns: where
+diets alternated $\pm$ 1.8 percentage units CP every 2 d (oscillating;
+OF) or remained static (SF). Our study used a 2x2 factorial design with
+16 mid- to late-lactation Holsteins (M = 128, SD = 12 DIM), divided into
+rumen-cannulated (n = 8) and non-cannulated subsets (n = 8). For each
+28-d experimental period, we recorded feed intake and milk production
+and took samples of orts (1x/d) and milk (2x/d) for 4 d. For the
+cannulated subset, we measured and sampled from the total mass of feces
+and urine production and collected plasma 2x/d across 4 d. For the
+non-cannulated subset, we sampled carbon dioxide and methane emissions
+3x/d for 4 d. For each subset, we fit linear mixed models with fixed
+effects for CP level, CP feeding pattern, the interaction of CP level
+and CP feeding pattern, period, and a random effect for cow. For plasma
+and urinary urea-N, we conducted time series analysis. Contrary to our
+hypothesis, we found no evidence that dietary CP level and CP feeding
+pattern interacted to influence N balance, nutrient digestibility, or
+gas emissions. Results showed HP resulted in similar milk N but
+increased manure N, reducing N use efficiency (milk true protein
+N/intake N) relative to LP. For OF, urea-N in urine and plasma peaked
+46--52 h after the first higher-CP phase feeding. Nutrient digestibility
+and gas emissions were similar across treatments, except CO2 production
+was greater for OF-HP. In summary, measured variables were minimally
+affected by dietary CP alternating $\pm$ 1.8 percentage units every 48
+h, even when average dietary CP was fed below predicted requirements
+(LP). Although our findings suggest that mid- to late-lactation cows are
+resilient to oscillation in dietary CP, oscillating CP neither reduced
+the environmental footprint by improving nutrient use efficiencies nor
+reduced the potential for direct and indirect greenhouse gas emissions.
+
+## Reference
+
+Erickson MG, Reinhardt LA, Svaren L, Sullivan ML, Zanton GI, Wattiaux MA
+(2024). "Crude protein oscillation in diets adequate and deficient in
+metabolizable protein: effects on nutrient digestibility, nitrogen
+balance, plasma amino acids, and greenhouse gas emissions." *Journal of
+Dairy Science*, *107*(6), 3558-3572. ISSN 0022-0302,
+doi:10.3168/jds.2023-24150 <https://doi.org/10.3168/jds.2023-24150>,
+Publisher: Elsevier,
+<https://www.sciencedirect.com/science/article/pii/S0022030224000092>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

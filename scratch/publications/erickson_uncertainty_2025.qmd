@@ -1,0 +1,24 @@
+---
+authors: Erickson, MaryGrace; Cortus, Erin L.
+image: pub_images//erickson_uncertainty_2025.png
+img_exists: "FALSE"
+link: "https://elibrary.asabe.org/abstract.asp?aid = 55550"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_uncertainty_2025.pdf
+title: Uncertainty of Manure Output Estimated with Intrinsic Markers for
+  a Lactating Dairy Herd
+toc-title: Table of contents
+year: 2025
+---
+
+.na.character
+
+## Reference
+
+Erickson M, Cortus EL (2025). "Uncertainty of Manure Output Estimated
+with Intrinsic Markers for a Lactating Dairy Herd." *Journal of the
+ASABE*, 0. Publisher: American Society of Agricultural and Biological
+Engineers, <https://elibrary.asabe.org/abstract.asp?aid=55550>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

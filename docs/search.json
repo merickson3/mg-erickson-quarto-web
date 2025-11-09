@@ -1,16 +1,443 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "In 2023, I created an online interactive textbook introducing nutritional and environmental modeling in R and Python based on NASEM (2021). A pilot version was shared at ADSA 2023: Decoding Dairy Diets.\n\n\n\nDecoding Dairy Diets"
+  },
+  {
+    "objectID": "resources.html#learning-from-nasem-2021---decoding-dairy-diets",
+    "href": "resources.html#learning-from-nasem-2021---decoding-dairy-diets",
+    "title": "Resources",
+    "section": "",
+    "text": "In 2023, I created an online interactive textbook introducing nutritional and environmental modeling in R and Python based on NASEM (2021). A pilot version was shared at ADSA 2023: Decoding Dairy Diets.\n\n\n\nDecoding Dairy Diets"
+  },
+  {
+    "objectID": "resources.html#dairynasem-r-package",
+    "href": "resources.html#dairynasem-r-package",
+    "title": "Resources",
+    "section": "dairynasem R package",
+    "text": "dairynasem R package\n\nI developed an R package to run the NASEM (2021) model on batched inputs.\nGithub repository for dairynasem"
+  },
+  {
+    "objectID": "scratch/publications/reed_nonlinear_2024.html",
+    "href": "scratch/publications/reed_nonlinear_2024.html",
+    "title": "Nonlinear models of 15N partitioning kinetics in late-lactation dairy cows from individually labeled feed ingredients",
+    "section": "",
+    "text": "Few studies have examined the N kinetics of individual feeds with stable isotope tracing. We hypothesized that N partitioning to milk and excreta pools as well as the rates of the processes that drive this partitioning would differ for alfalfa silage, corn silage, corn grain, and soybean meal. Feed ingredients were endogenously labeled with 15N and included in 4 diets to create treatments with the same dietary composition and different labeled feed. Diets were fed to 12 late-lactation dairy cows for 4 d (96 h) and feces, urine, and milk collection proceeded during the 4 d of 15N enrichment and for 3 d (80 h) after cessation of label feeding. Nonlinear models of 15N enrichment and decay were fit to milk (MN), urine (UN), and fecal N (FN) in R with the nlme package, and feed-specific parameter estimates were compared. The estimated proportions of feed N that were excreted in feces supported our understanding that N from soybean meal and corn grain is more digestible than N from alfalfa and corn silage. Estimates for the N partitioning between milk and urine from the 2 concentrate feeds (soybean meal and corn grain) indicated that UN/MN ratios were less than or equal to 1:1, indicating either more or equal nitrogen partitioning to milk compared with urine. It is important to maintain factual accuracy in representing the results rather than implying a desired outcome unsupported by the data. In contrast, UN/MN ratios for forage feeds (corn and alfalfa silage) were {}1:1, indicating more N partitioning to urine than milk. The modeled proportion of total FN that originated from feed N was 82.2%, which is in line with previous research using a similar 15N measurement timeframe. However, the proportion of urinary and MN originating from feed N was much lower (60.5% for urine, 57.9% for milk), suggesting that approximately 40% of urinary and MN directly originate from body N sources related to protein turnover."
+  },
+  {
+    "objectID": "scratch/publications/reed_nonlinear_2024.html#reference",
+    "href": "scratch/publications/reed_nonlinear_2024.html#reference",
+    "title": "Nonlinear models of 15N partitioning kinetics in late-lactation dairy cows from individually labeled feed ingredients",
+    "section": "Reference",
+    "text": "Reference\nReed KF, Erickson M, Barros T, Danes MAC, Powell JM, Zanton GI, Wattiaux MA (2024). “Nonlinear models of 15N partitioning kinetics in late-lactation dairy cows from individually labeled feed ingredients.” Journal of Dairy Science, 107(11), 9176-9196. ISSN 0022-0302, doi:10.3168/jds.2023-24239 https://doi.org/10.3168/jds.2023-24239, Publisher: Elsevier, https://www.sciencedirect.com/science/article/pii/S0022030224008890.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_crude_2024.html",
+    "href": "scratch/publications/erickson_crude_2024.html",
+    "title": "Crude protein oscillation in diets adequate and deficient in metabolizable protein: effects on nutrient digestibility, nitrogen balance, plasma amino acids, and greenhouse gas emissions",
+    "section": "",
+    "text": "Reducing dietary crude protein (CP) is a well-established means to improve N use efficiency. Yet, few studies have considered if transient restrictions in dietary CP could reduce the environmental footprint of late lactation cows. We hypothesized that the effects of CP feeding pattern on digestibility and environmental outputs would be amplified at lower dietary CP. We tested CP levels below and near predicted requirements (LP, 13.8%; HP, 15.5%) offered in 2 feeding patterns: where diets alternated \\(\\pm\\) 1.8 percentage units CP every 2 d (oscillating; OF) or remained static (SF). Our study used a 2x2 factorial design with 16 mid- to late-lactation Holsteins (M = 128, SD = 12 DIM), divided into rumen-cannulated (n = 8) and non-cannulated subsets (n = 8). For each 28-d experimental period, we recorded feed intake and milk production and took samples of orts (1x/d) and milk (2x/d) for 4 d. For the cannulated subset, we measured and sampled from the total mass of feces and urine production and collected plasma 2x/d across 4 d. For the non-cannulated subset, we sampled carbon dioxide and methane emissions 3x/d for 4 d. For each subset, we fit linear mixed models with fixed effects for CP level, CP feeding pattern, the interaction of CP level and CP feeding pattern, period, and a random effect for cow. For plasma and urinary urea-N, we conducted time series analysis. Contrary to our hypothesis, we found no evidence that dietary CP level and CP feeding pattern interacted to influence N balance, nutrient digestibility, or gas emissions. Results showed HP resulted in similar milk N but increased manure N, reducing N use efficiency (milk true protein N/intake N) relative to LP. For OF, urea-N in urine and plasma peaked 46–52 h after the first higher-CP phase feeding. Nutrient digestibility and gas emissions were similar across treatments, except CO2 production was greater for OF-HP. In summary, measured variables were minimally affected by dietary CP alternating \\(\\pm\\) 1.8 percentage units every 48 h, even when average dietary CP was fed below predicted requirements (LP). Although our findings suggest that mid- to late-lactation cows are resilient to oscillation in dietary CP, oscillating CP neither reduced the environmental footprint by improving nutrient use efficiencies nor reduced the potential for direct and indirect greenhouse gas emissions."
+  },
+  {
+    "objectID": "scratch/publications/erickson_crude_2024.html#reference",
+    "href": "scratch/publications/erickson_crude_2024.html#reference",
+    "title": "Crude protein oscillation in diets adequate and deficient in metabolizable protein: effects on nutrient digestibility, nitrogen balance, plasma amino acids, and greenhouse gas emissions",
+    "section": "Reference",
+    "text": "Reference\nErickson MG, Reinhardt LA, Svaren L, Sullivan ML, Zanton GI, Wattiaux MA (2024). “Crude protein oscillation in diets adequate and deficient in metabolizable protein: effects on nutrient digestibility, nitrogen balance, plasma amino acids, and greenhouse gas emissions.” Journal of Dairy Science, 107(6), 3558-3572. ISSN 0022-0302, doi:10.3168/jds.2023-24150 https://doi.org/10.3168/jds.2023-24150, Publisher: Elsevier, https://www.sciencedirect.com/science/article/pii/S0022030224000092.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/viquez-umana_assessing_2025.html",
+    "href": "scratch/publications/viquez-umana_assessing_2025.html",
+    "title": "Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle",
+    "section": "",
+    "text": "IntroductionUnderstanding how the rumen microbiota responds to varying protein levels and feeding patterns is critical for optimizing dairy cattle nutrition. This study investigated the influence of dietary crude protein (CP) levels (13.8% or 15.5% CP of ration dry matter) and CP feeding patterns (constant over time (static) or oscillating by 1.8 percentage units above and below the mean every 48 h) on the composition, diversity, and function of the rumen microbiome.MethodsUsing a replicated Latin Square design, eight rumen-cannulated Holstein cows were assigned each of the four dietary treatments (structured as a 2 × 2 factorial) in four consecutive 28-day periods (with 24 days of adaptation and 4 days of sampling). Rumen samples were collected 4 h post-feeding, and amplicon libraries of the V4 region of the 16S rRNA gene were sequenced and analyzed to assess changes in microbiome composition. Additionally, volatile fatty acids (VFAs) were measured to evaluate rumen microbial function.ResultsResults indicated that dietary CP level did not alter microbial diversity (p = 0.30), but oscillating diets increased rumen microbial diversity (Shannon index, p = 0.04). The rumen microbiome richness was also affected by CP feeding pattern (p = 0.05), but not dietary CP level (p = 0.27). Furthermore, differential abundance analysis using ANCOM-BC identified CAG- 352 (p = 0.0001) and an unclassified member of the family Acholeplasmataceae (p = 0.0002) as taxa significantly impacted by protein level and feeding pattern, even though their relative abundance was low (below 0.02%). The functional profile of the rumen bacterial communities was not affected by CP level or feeding pattern, and VFA profiles also remained consistent across treatments, with no observable changes in concentration.DiscussionThese findings support the hypothesis that the rumen microbiome remains stable despite variations in the ruminal supply of dietary CP, suggesting that compensatory mechanisms may be involved. Although oscillating dietary CP concentration might alter the rumen microbiome, further research into rumen metabolic processes and host-microbiome interactions is needed to evaluate if the changes observed in our study are biologically relevant for developing new opportunities to enhance protein nutrition in dairy cattle."
+  },
+  {
+    "objectID": "scratch/publications/viquez-umana_assessing_2025.html#reference",
+    "href": "scratch/publications/viquez-umana_assessing_2025.html#reference",
+    "title": "Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle",
+    "section": "Reference",
+    "text": "Reference\nViquez-Umana FL, Erickson MG, Young JD, Zanton GI, Wattiaux MA, Suen G, Mantovani HC (2025). “Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle.” Front. Microbiol., 16, 1568112. ISSN 1664-302X, doi:10.3389/fmicb.2025.1568112 https://doi.org/10.3389/fmicb.2025.1568112, Publisher: Frontiers, https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1568112/full.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_longitudinal_2020.html",
+    "href": "scratch/publications/erickson_longitudinal_2020.html",
+    "title": "Longitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course",
+    "section": "",
+    "text": "Erickson M, Wattiaux MA, Karcher EL (2020). “Longitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course.” Natural Sciences Education, 49(1), e20031. ISSN 2168-8273, 2168-8281, doi:10.1002/nse2.20031 https://doi.org/10.1002/nse2.20031, https://acsess.onlinelibrary.wiley.com/doi/10.1002/nse2.20031.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_longitudinal_2020.html#reference",
+    "href": "scratch/publications/erickson_longitudinal_2020.html#reference",
+    "title": "Longitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course",
+    "section": "",
+    "text": "Erickson M, Wattiaux MA, Karcher EL (2020). “Longitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course.” Natural Sciences Education, 49(1), e20031. ISSN 2168-8273, 2168-8281, doi:10.1002/nse2.20031 https://doi.org/10.1002/nse2.20031, https://acsess.onlinelibrary.wiley.com/doi/10.1002/nse2.20031.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_dynamic_2023.html",
+    "href": "scratch/publications/erickson_dynamic_2023.html",
+    "title": "Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows",
+    "section": "",
+    "text": "Limited research has examined the interaction between dietary crude protein (CP) level and CP feeding pattern. We tested CP level (low protein [LP], 13.8%; high protein [HP], 15.5% CP, dry matter [DM] basis) and CP feeding pattern (OF = oscillating, SF = static) using a 2 × 2 factorial in 16 mid- to late-lactation Holsteins (initially 128 \\(\\pm\\) 12 d in milk; mean \\(\\pm\\) SD). Cows ate total mixed rations formulated by exchanging soy hulls and ground corn with solvent soybean meal to keep constant ratios of neutral detergent fiber to starch (1.18:1), rumen-degradable protein to CP (0.61:1), and forage-to-concentrate (1.5:1) in DM. The OF treatments alternated diets every 48 h to vary CP above and below the mean CP level (OF-LP = 13.8% \\(\\pm\\) 1.8%; OF-HP = 15.5% \\(\\pm\\) 1.8% CP [DM basis]) whereas diets were constant in SF (SF-LP = 13.8%; SF-HP = 15.5% CP [DM basis]). In four 28-d periods, 8 rumen-cannulated and 8 noncannulated cows formed 2 Latin rectangles. On d 25 to 28 of each period, each cow’s feed intake and milk production were recorded, and samples were taken of orts (1×/d) and milk (2×/d). We fit linear mixed models with fixed CP level, CP feeding pattern, and period effects, and a random intercept for cow, computing least squares means and standard errors. Neither CP level, CP feeding pattern, nor the interaction affected DM intake, feed efficiency, or production of milk, fat- and protein-corrected milk (FPCM), fat, true protein, or lactose. Milk urea-N (MUN) yield was lesser for LP. The LP and OF conditions decreased MUN concentration. The CP level tended to interact with CP feeding pattern so that milk protein concentration was greatest for OF-HP. The OF and LP conditions increased the ratio of true protein to MUN yield. Within OF, cosinor mixed models of selected variables showed that cows maintained production of FPCM across dietary changes, but MUN followed a wave-pattern at a 2-d delay relative to dietary changes. A tendency for lesser MUN with OF contradicted prior research and suggested potential differences in urea-N metabolism between OF and SF. Results showed that cows maintained production of economically-relevant components regardless of CP feeding pattern and CP level. Contrary to our hypothesis, the effects of 48-h oscillating CP were mostly consistent across CP levels, suggesting that productivity is resilient to patterned variation in dietary CP over time even when average CP supply is low (13.8% of DM) and despite 48 h restrictions at 12.2% CP."
+  },
+  {
+    "objectID": "scratch/publications/erickson_dynamic_2023.html#reference",
+    "href": "scratch/publications/erickson_dynamic_2023.html#reference",
+    "title": "Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows",
+    "section": "Reference",
+    "text": "Reference\nErickson MG, Zanton GI, Wattiaux MA (2023). “Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows.” Journal of Dairy Science, 0(0), 8774-8786. ISSN 0022-0302, doi:10.3168/jds.2023-23603 https://doi.org/10.3168/jds.2023-23603, Publisher: Elsevier, https://www.journalofdairyscience.org/article/S0022-0302(23)00610-0/fulltext#articleInformation.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_case_2022.html",
+    "href": "scratch/publications/erickson_case_2022.html",
+    "title": "Case Study: Introductory Student Onboarding With a Place-Based, Blended Welcome Tour",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_case_2022.html#reference",
+    "href": "scratch/publications/erickson_case_2022.html#reference",
+    "title": "Case Study: Introductory Student Onboarding With a Place-Based, Blended Welcome Tour",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Wattiaux MA (2022). “Case Study: Introductory Student Onboarding With a Place-Based, Blended Welcome Tour.” NACTA Journal, 66, 123. Publisher: ERIC, https://eric.ed.gov/?id=EJ1458271.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_structured_2020.html",
+    "href": "scratch/publications/erickson_structured_2020.html",
+    "title": "Structured support advances extension educator intercultural development during a short-term study abroad experience",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_structured_2020.html#reference",
+    "href": "scratch/publications/erickson_structured_2020.html#reference",
+    "title": "Structured support advances extension educator intercultural development during a short-term study abroad experience",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Grant J, Karcher EL (2020). “Structured support advances extension educator intercultural development during a short-term study abroad experience.” The Journal of Extension, 58(4), 12. https://open.clemson.edu/joe/vol58/iss4/12/.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_characterizing_2020.html",
+    "href": "scratch/publications/erickson_characterizing_2020.html",
+    "title": "Characterizing Student Engagement with Hands-On, Problem-Based, and Lecture Activities in an Introductory College Course",
+    "section": "",
+    "text": "This study examines the interest, motivation, and behavioral engagement of college students in an introductory course relative to three instructional formats used in the course: hands-on, problem-based laboratory stations; problem-based written case studies; and video lectures. Groups of five to seven students were assigned learning activities as treatments in a Latin Square design consisting of three experimental periods. At the beginning of selected laboratory sessions, students completed 10 minutes of the experimental activity immediately followed by a questionnaire. Students rated hands-on, problem-based laboratory stations as more challenging, novel, and attention-grabbing than they rated case studies or video lectures. Interest, intrinsic motivation, and behavioral engagement were greatest for groups completing laboratory stations followed by those completing case studies and lectures, respectively. Overall, the greater situational interest experienced during laboratory stations and case studies indicates that these activities can be leveraged to create learning environments that promote interest, engagement, and achievement."
+  },
+  {
+    "objectID": "scratch/publications/erickson_characterizing_2020.html#reference",
+    "href": "scratch/publications/erickson_characterizing_2020.html#reference",
+    "title": "Characterizing Student Engagement with Hands-On, Problem-Based, and Lecture Activities in an Introductory College Course",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Marks D, Karcher E (2020). “Characterizing Student Engagement with Hands-On, Problem-Based, and Lecture Activities in an Introductory College Course.” Teaching & Learning Inquiry, 8(1), 138-153. ISSN 2167-4779, Publisher: University of Calgary ERIC Number: EJ1251142, https://eric.ed.gov/?id=EJ1251142.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_brief_2021.html",
+    "href": "scratch/publications/erickson_brief_2021.html",
+    "title": "Brief, written reflections improve interest of introductory animal science undergraduates",
+    "section": "",
+    "text": "Erickson M, Wattiaux MA, Marks D, Karcher EL (2021). “Brief, written reflections improve interest of introductory animal science undergraduates.” LSE, 20(2), ar28. ISSN 1931-7913, doi:10.1187/cbe.20-08-0164 https://doi.org/10.1187/cbe.20-08-0164, Publisher: American Society for Cell Biology, https://www.lifescied.org/doi/10.1187/cbe.20-08-0164.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_brief_2021.html#reference",
+    "href": "scratch/publications/erickson_brief_2021.html#reference",
+    "title": "Brief, written reflections improve interest of introductory animal science undergraduates",
+    "section": "",
+    "text": "Erickson M, Wattiaux MA, Marks D, Karcher EL (2021). “Brief, written reflections improve interest of introductory animal science undergraduates.” LSE, 20(2), ar28. ISSN 1931-7913, doi:10.1187/cbe.20-08-0164 https://doi.org/10.1187/cbe.20-08-0164, Publisher: American Society for Cell Biology, https://www.lifescied.org/doi/10.1187/cbe.20-08-0164.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_high_2020.html",
+    "href": "scratch/publications/erickson_high_2020.html",
+    "title": "High school student and teacher perceptions of an online learning experience integrating STEM and Poultry Science",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_high_2020.html#reference",
+    "href": "scratch/publications/erickson_high_2020.html#reference",
+    "title": "High school student and teacher perceptions of an online learning experience integrating STEM and Poultry Science",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Erasmus MA, Karcher DM, Knobloch NA, Karcher EL (2020). “High school student and teacher perceptions of an online learning experience integrating STEM and Poultry Science.” Journal of Agricultural Education, 61(2), 20-40. https://www.researchgate.net/profile/Mary-Grace-Erickson/publication/343724993_High_School_Student_and_Teacher_Perceptions_of_an_Online_Learning_Experience_Integrating_STEM_and_Poultry_Science/links/5f3c18e7a6fdcccc43d30b3f/High-School-Student-and-Teacher-Perceptions-of-an-Online-Learning-Experience-Integrating-STEM-and-Poultry-Science.pdf.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_uncertainty_2025.html",
+    "href": "scratch/publications/erickson_uncertainty_2025.html",
+    "title": "Uncertainty of Manure Output Estimated with Intrinsic Markers for a Lactating Dairy Herd",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_uncertainty_2025.html#reference",
+    "href": "scratch/publications/erickson_uncertainty_2025.html#reference",
+    "title": "Uncertainty of Manure Output Estimated with Intrinsic Markers for a Lactating Dairy Herd",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Cortus EL (2025). “Uncertainty of Manure Output Estimated with Intrinsic Markers for a Lactating Dairy Herd.” Journal of the ASABE, 0. Publisher: American Society of Agricultural and Biological Engineers, https://elibrary.asabe.org/abstract.asp?aid=55550.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_practices_2021.html",
+    "href": "scratch/publications/erickson_practices_2021.html",
+    "title": "Practices and perceptions at the COVID‐19 transition in undergraduate animal science courses",
+    "section": "",
+    "text": "Erickson M, Wattiaux MA (2021). “Practices and perceptions at the COVID‐19 transition in undergraduate animal science courses.” Natural Sciences Education, 50(1), e20039. ISSN 2168-8273, 2168-8281, doi:10.1002/nse2.20039 https://doi.org/10.1002/nse2.20039, https://acsess.onlinelibrary.wiley.com/doi/10.1002/nse2.20039.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_practices_2021.html#reference",
+    "href": "scratch/publications/erickson_practices_2021.html#reference",
+    "title": "Practices and perceptions at the COVID‐19 transition in undergraduate animal science courses",
+    "section": "",
+    "text": "Erickson M, Wattiaux MA (2021). “Practices and perceptions at the COVID‐19 transition in undergraduate animal science courses.” Natural Sciences Education, 50(1), e20039. ISSN 2168-8273, 2168-8281, doi:10.1002/nse2.20039 https://doi.org/10.1002/nse2.20039, https://acsess.onlinelibrary.wiley.com/doi/10.1002/nse2.20039.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_undergraduates_2019.html",
+    "href": "scratch/publications/erickson_undergraduates_2019.html",
+    "title": "Undergraduates’ experiences of transculturation toward engaged pedagogy through a partnership program in animal sciences",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_undergraduates_2019.html#reference",
+    "href": "scratch/publications/erickson_undergraduates_2019.html#reference",
+    "title": "Undergraduates’ experiences of transculturation toward engaged pedagogy through a partnership program in animal sciences",
+    "section": "Reference",
+    "text": "Reference\nErickson MG, Guberman D, Karcher E (2019). “Undergraduates’ experiences of transculturation toward engaged pedagogy through a partnership program in animal sciences.” NACTA Journal, 64, 214-223. Publisher: JSTOR, https://www.jstor.org/stable/27157796.\n\n\n\nGraphical Abstract"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "No matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Agroecological performance of smallholder dairy cattle systems in the Peruvian Amazon\n          \n        \n\n        \n        \n          Pizarro, D. M.; Erickson, M. G.; Gomez-Bravo, C. A.; Picasso, V. D.; Lucantoni, D.; Mottet, A.; Wattiaux, M. A.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle\n          \n        \n\n        \n        \n          Viquez-Umana, F. L.; Erickson, M. G.; Young, J. D.; Zanton, G. I.; Wattiaux, M. A.; Suen, G.; Mantovani, H. C.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Building value for dairy farmers and advisors in the Farmers Assuring Responsible Management Environmental Stewardship Program\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Rovai, Maristela; Villamediana, Patricia; Schmidt, Amy M.; Stowell, Richard R.; Cortus, Erin L.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Chloride in Livestock and Poultry Manure Samples in the US Upper Midwest\n          \n        \n\n        \n        \n          Cortus, Erin L.; Erickson, MaryGrace; Mueller, Sabrina; Breker, John S.; Urriola, Pedro E.; Wilson, Melissa L.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Manure use benefits and barriers according to agricultural stakeholders\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Cortus, Erin; Koelsch, Rick; Johnson, Leslie; Wilson, Melissa L.; Andersen, Dan; Zelt, Mara; Schmidt, Amy Millmier\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Uncertainty of Manure Output Estimated with Intrinsic Markers for a Lactating Dairy Herd\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Cortus, Erin L.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Crude protein oscillation in diets adequate and deficient in metabolizable protein: effects on nutrient digestibility, nitrogen balance, plasma amino acids, and greenhouse gas emissions\n          \n        \n\n        \n        \n          Erickson, M. G.; Reinhardt, L. A.; Svaren, L.; Sullivan, M. L.; Zanton, G. I.; Wattiaux, M. A.\n        \n        \n           (2024)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Nonlinear models of 15N partitioning kinetics in late-lactation dairy cows from individually labeled feed ingredients\n          \n        \n\n        \n        \n          Reed, Kristan F.; Erickson, MaryGrace; Barros, Tiago; Danes, Marina A. C.; Powell, J. Mark; Zanton, Geoffrey I.; Wattiaux, Michel A.\n        \n        \n           (2024)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Reducing dietary crude protein: Effects on digestibility, nitrogen balance, and blood metabolites in late-lactation Holstein cows\n          \n        \n\n        \n        \n          Erickson, M. G.; Barros, T.; Aguerre, M. J.; Colmenero, JJ Olmos; Bertics, S. J.; Wattiaux, M. A.\n        \n        \n           (2024)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows\n          \n        \n\n        \n        \n          Erickson, M. G.; Zanton, G. I.; Wattiaux, M. A.\n        \n        \n           (2023)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n            \n               PDF\n            \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory\n          \n        \n\n        \n        \n          Santos, Jorge Antonio De los; Erickson, MaryGrace; Wattiaux, Michel A.; Parrish, John J.\n        \n        \n           (2023)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Student Perceptions of Biology laboratory Instruction in Pre, During, and Post-Pandemic: A Comparative Survey Study\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A.; Parrish, John J.\n        \n        \n           (2023)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Associating Synchronous and Asynchronous Remote Teaching Formats with Situational Interest and Motivation\n          \n        \n\n        \n        \n          Simmermeyer, Elizabeth; Erickson, MaryGrace; Walsh, Stefanie; Karcher, Elizabeth\n        \n        \n           (2022)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Case Study: Introductory Student Onboarding With a Place-Based, Blended Welcome Tour\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A\n        \n        \n           (2022)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Brief, written reflections improve interest of introductory animal science undergraduates\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A; Marks, Danielle; Karcher, Elizabeth L\n        \n        \n           (2021)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Practices and perceptions at the COVID‐19 transition in undergraduate animal science courses\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A.\n        \n        \n           (2021)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Animal sciences undergraduate education since the ASAS centennial: a national survey and scoping review\n          \n        \n\n        \n        \n          Erickson, MG; Ranathunga, SD; Wattiaux, MA\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Characterizing Student Engagement with Hands-On, Problem-Based, and Lecture Activities in an Introductory College Course\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Marks, Danielle; Karcher, Elizabeth\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Effect of glucose infusion dose and stage of lactation on glucose tolerance test kinetics in lactating dairy cows\n          \n        \n\n        \n        \n          Malacco, V. M. R.; Erickson, M.; Cardoso, F. F.; Biese, B. P.; Laguna, J. G.; Donkin, S. S.\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            High school student and teacher perceptions of an online learning experience integrating STEM and Poultry Science\n          \n        \n\n        \n        \n          Erickson, M.; Erasmus, Marisa A.; Karcher, Darrin M.; Knobloch, Neil A.; Karcher, Elizabeth L.\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Longitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A.; Karcher, Elizabeth L.\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Structured support advances extension educator intercultural development during a short-term study abroad experience\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Grant, Jacie; Karcher, Elizabeth L.\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Interest and active learning techniques in an introductory animal science course\n          \n        \n\n        \n        \n          Erickson, Mary Grace; Guberman, Dan; Zhu, Hao; Karcher, Elizabeth\n        \n        \n           (2019)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Poultry in the classroom: effectiveness of an online poultry-science-based education program for high school STEM instruction\n          \n        \n\n        \n        \n          Erickson, Mary G.; Erasmus, Marisa A.; Karcher, Darrin M.; Knobloch, Neil A.; Karcher, Elizabeth L.\n        \n        \n           (2019)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Undergraduates' experiences of transculturation toward engaged pedagogy through a partnership program in animal sciences\n          \n        \n\n        \n        \n          Erickson, Mary Grace; Guberman, Daniel; Karcher, Elizabeth\n        \n        \n           (2019)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves\n          \n        \n\n        \n        \n          Worden, L. C.; Erickson, M. G.; Gramer, S.; Tap, C.; Ylioja, C.; Trottier, N.; Preseault, C. L.; VandeHaar, M. J.; Lock, A. L.; Karcher, E. L.\n        \n        \n           (2018)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Agroecological performance of smallholder dairy cattle systems in the Peruvian Amazon\n          \n        \n\n        \n        \n          Pizarro, D. M.; Erickson, M. G.; Gomez-Bravo, C. A.; Picasso, V. D.; Lucantoni, D.; Mottet, A.; Wattiaux, M. A.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Assessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle\n          \n        \n\n        \n        \n          Viquez-Umana, F. L.; Erickson, M. G.; Young, J. D.; Zanton, G. I.; Wattiaux, M. A.; Suen, G.; Mantovani, H. C.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Building value for dairy farmers and advisors in the Farmers Assuring Responsible Management Environmental Stewardship Program\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Rovai, Maristela; Villamediana, Patricia; Schmidt, Amy M.; Stowell, Richard R.; Cortus, Erin L.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Chloride in Livestock and Poultry Manure Samples in the US Upper Midwest\n          \n        \n\n        \n        \n          Cortus, Erin L.; Erickson, MaryGrace; Mueller, Sabrina; Breker, John S.; Urriola, Pedro E.; Wilson, Melissa L.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Manure use benefits and barriers according to agricultural stakeholders\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Cortus, Erin; Koelsch, Rick; Johnson, Leslie; Wilson, Melissa L.; Andersen, Dan; Zelt, Mara; Schmidt, Amy Millmier\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Uncertainty of Manure Output Estimated with Intrinsic Markers for a Lactating Dairy Herd\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Cortus, Erin L.\n        \n        \n           (2025)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Crude protein oscillation in diets adequate and deficient in metabolizable protein: effects on nutrient digestibility, nitrogen balance, plasma amino acids, and greenhouse gas emissions\n          \n        \n\n        \n        \n          Erickson, M. G.; Reinhardt, L. A.; Svaren, L.; Sullivan, M. L.; Zanton, G. I.; Wattiaux, M. A.\n        \n        \n           (2024)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Nonlinear models of 15N partitioning kinetics in late-lactation dairy cows from individually labeled feed ingredients\n          \n        \n\n        \n        \n          Reed, Kristan F.; Erickson, MaryGrace; Barros, Tiago; Danes, Marina A. C.; Powell, J. Mark; Zanton, Geoffrey I.; Wattiaux, Michel A.\n        \n        \n           (2024)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Reducing dietary crude protein: Effects on digestibility, nitrogen balance, and blood metabolites in late-lactation Holstein cows\n          \n        \n\n        \n        \n          Erickson, M. G.; Barros, T.; Aguerre, M. J.; Colmenero, JJ Olmos; Bertics, S. J.; Wattiaux, M. A.\n        \n        \n           (2024)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Dynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows\n          \n        \n\n        \n        \n          Erickson, M. G.; Zanton, G. I.; Wattiaux, M. A.\n        \n        \n           (2023)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n            \n               PDF\n            \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory\n          \n        \n\n        \n        \n          Santos, Jorge Antonio De los; Erickson, MaryGrace; Wattiaux, Michel A.; Parrish, John J.\n        \n        \n           (2023)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Student Perceptions of Biology laboratory Instruction in Pre, During, and Post-Pandemic: A Comparative Survey Study\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A.; Parrish, John J.\n        \n        \n           (2023)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Associating Synchronous and Asynchronous Remote Teaching Formats with Situational Interest and Motivation\n          \n        \n\n        \n        \n          Simmermeyer, Elizabeth; Erickson, MaryGrace; Walsh, Stefanie; Karcher, Elizabeth\n        \n        \n           (2022)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Case Study: Introductory Student Onboarding With a Place-Based, Blended Welcome Tour\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A\n        \n        \n           (2022)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Brief, written reflections improve interest of introductory animal science undergraduates\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A; Marks, Danielle; Karcher, Elizabeth L\n        \n        \n           (2021)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Practices and perceptions at the COVID‐19 transition in undergraduate animal science courses\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A.\n        \n        \n           (2021)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Animal sciences undergraduate education since the ASAS centennial: a national survey and scoping review\n          \n        \n\n        \n        \n          Erickson, MG; Ranathunga, SD; Wattiaux, MA\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n            \n        \n      \n      \n      \n      \n    \n\n        \n        \n          \n            Characterizing Student Engagement with Hands-On, Problem-Based, and Lecture Activities in an Introductory College Course\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Marks, Danielle; Karcher, Elizabeth\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Effect of glucose infusion dose and stage of lactation on glucose tolerance test kinetics in lactating dairy cows\n          \n        \n\n        \n        \n          Malacco, V. M. R.; Erickson, M.; Cardoso, F. F.; Biese, B. P.; Laguna, J. G.; Donkin, S. S.\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            High school student and teacher perceptions of an online learning experience integrating STEM and Poultry Science\n          \n        \n\n        \n        \n          Erickson, M.; Erasmus, Marisa A.; Karcher, Darrin M.; Knobloch, Neil A.; Karcher, Elizabeth L.\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Longitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Wattiaux, Michel A.; Karcher, Elizabeth L.\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Structured support advances extension educator intercultural development during a short-term study abroad experience\n          \n        \n\n        \n        \n          Erickson, MaryGrace; Grant, Jacie; Karcher, Elizabeth L.\n        \n        \n           (2020)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Interest and active learning techniques in an introductory animal science course\n          \n        \n\n        \n        \n          Erickson, Mary Grace; Guberman, Dan; Zhu, Hao; Karcher, Elizabeth\n        \n        \n           (2019)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Poultry in the classroom: effectiveness of an online poultry-science-based education program for high school STEM instruction\n          \n        \n\n        \n        \n          Erickson, Mary G.; Erasmus, Marisa A.; Karcher, Darrin M.; Knobloch, Neil A.; Karcher, Elizabeth L.\n        \n        \n           (2019)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Undergraduates' experiences of transculturation toward engaged pedagogy through a partnership program in animal sciences\n          \n        \n\n        \n        \n          Erickson, Mary Grace; Guberman, Daniel; Karcher, Elizabeth\n        \n        \n           (2019)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n  \n\n    \n      \n      \n    \n\n        \n        \n          \n            Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves\n          \n        \n\n        \n        \n          Worden, L. C.; Erickson, M. G.; Gramer, S.; Tap, C.; Ylioja, C.; Trottier, N.; Preseault, C. L.; VandeHaar, M. J.; Lock, A. L.; Karcher, E. L.\n        \n        \n           (2018)\n        \n        \n\n        \n        \n\n        \n        \n          \n          \n          \n          \n          \n        \n\n      \n  \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Test Quarto Website",
+    "title": "MaryGrace Erickson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This site shares some of my projects related to dairy nutrition, sustainability, and education research. See the links above for some ways to contact me. I’d love to hear from you."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "MaryGrace Erickson",
+    "section": "",
+    "text": "This site shares some of my projects related to dairy nutrition, sustainability, and education research. See the links above for some ways to contact me. I’d love to hear from you."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "MaryGrace Erickson",
+    "section": "About Me",
+    "text": "About Me\nI am committed to helping dairies (and dairy communities) thrive. In over a decade of experience in applied dairy nutrition, I studied protein utilization, nutrient efficiency, and environmental stewardship. I worked with stakeholders across livestock industries to build human capacity through education and extension. As an academic, I led nutrition trials, participatory on-farm research, and multi-institutional extension work that engaged dairy producers, advisors, and processors. I secured competitive funding to support innovations in the measurement methods and social structures supporting sustainable livestock production. In recent work, I am continuing to explore and appreciate the power of ruminants in productive, sustainable agroecosystems.\nI believe knowledge is meant to be shared and acted on. A central part of my mission is translating complex research into actionable tools and resources. I have developed interactive educational materials including an open-source textbook and an R package for nutritional modeling. These tools make advanced concepts accessible to students, consultants, and producers alike. I have taught and mentored hundreds of students in diverse disciplines from animal science, computer science and engineering, receiving recognition through national and campus-wide teaching awards.\nI love working with people, animals, and data. Throughout my career, I have sought to better understand the human, animal, and technological aspects of livestock systems. I am passionate about learning through any means - whether it is science, statistics, or stories."
+  },
+  {
+    "objectID": "index.html#background-education",
+    "href": "index.html#background-education",
+    "title": "MaryGrace Erickson",
+    "section": "Background & Education",
+    "text": "Background & Education\n🌼 Postdoctoral Associate, University of Minnesota, 2023-2025\nIn my postdoc work with Erin Cortus, we evaluated laboratory methods for estimating emissions from stored manure, characterized uncertainty in barn- and pen-scale manure output measurements, and proposed a new conceptual framework for researching livestock systems sustainability. Throughout my postdoc, I worked closely with dairy stakeholders in the U.S. Upper Midwest to characterize their perceptions of environmental stewardship assessments and understand how feeding management affects productivity and sustainability.\n🦡 Ph.D., Dairy Science, University of Wisconsin–Madison, 2023\nMy dissertation had two parts: 1) protein nutrition of lactating dairy cows, and 2) undergraduate education in animal & dairy sciences. Additionally, I collaborated on whole-farm sustainability assessments of farms in Quebec and Peru. I was Instructor-of-Record for Introduction to Animal Agriculture laboratories and co-taught Food Systems & Sustainability and Animal Agriculture & Sustainable Development with my mentor Michel Wattiaux.\n🚂 M.S., Animal Sciences, Purdue University, 2019\nDuring my Master’s degree, I took courses related both to Animal Sciences and Educational Psychology. Working with Liz Karcher, we redesigned the Introduction to Animal Agriculture lectures and laboratories to promote student engagement. I also developed and evaluated an integrated-STEM poultry education module, working with the poultry industry and high school classrooms across Indiana (499 students in 23 classrooms). See my publications and presentations to learn more about these massive course (re)design efforts!\n🚂 B.S., Animal Sciences, Purdue University, 2017\nDairy nutrition captured my interest from the start. As an undergraduate, I was fortunate to work with Tamilee Nennich Adolph and Shawn Donkin. Projects included tests of calf water intake on different planes of nutrition, and refinement of a glucose tolerance test protocol.\n🐄 P.A.S., Dairy Science, American Registry of Professional Animal Scientists, 2017"
+  },
+  {
+    "objectID": "scratch/publications/cortus_chloride_2025.html",
+    "href": "scratch/publications/cortus_chloride_2025.html",
+    "title": "Chloride in Livestock and Poultry Manure Samples in the US Upper Midwest",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/cortus_chloride_2025.html#reference",
+    "href": "scratch/publications/cortus_chloride_2025.html#reference",
+    "title": "Chloride in Livestock and Poultry Manure Samples in the US Upper Midwest",
+    "section": "Reference",
+    "text": "Reference\nCortus EL, Erickson M, Mueller S, Breker JS, Urriola PE, Wilson ML (2025). “Chloride in Livestock and Poultry Manure Samples in the US Upper Midwest.” Journal of the ASABE, 0. Publisher: American Society of Agricultural and Biological Engineers, https://elibrary.asabe.org/abstract.asp?aid=55548.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/santos_retrospective_2023.html",
+    "href": "scratch/publications/santos_retrospective_2023.html",
+    "title": "Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory",
+    "section": "",
+    "text": "In 2019 a global pandemic forced biology teaching laboratories to move remotely. In this article we present data on student perceptions of laboratory instruction modality as experienced pre-, during, and post-pandemic. Our research took place at the University of Wisconsin-Madison in 2022. We designed a survey to evaluate students’ perception of key components of scientific critical thinking set as learning outcomes of the laboratory of an introductory biology course. Participants included students who took the course under the same teaching assistant. We surveyed four consecutive semesters in which teaching and learning environments were drastically altered: A) pre-pandemic in-person instruction Fall 2019, B) pandemic emergency-remote instruction Spring 2020, C) pandemic full-semester online instruction Fall 2020, and D) post-pandemic return to in-person instruction Spring 2021. We found differences in the response to four of the nine survey items. First, greater ratings were observed for D (post-pandemic in-person Spring 2021) relative to C (pandemic full-semester online Fall 2020) for the following three items: (a) developing research questions and hypotheses, (b) performing experiments and (c) level of engagement. Furthermore, the rating for the overall laboratory quality was greater for D (post-pandemic in-person Spring 2021) relative to A (pre-pandemic in-person Fall 2019). There were no differences in students’ perception for the following four items: presenting data, performing statistical analysis, discussion of results, and acquiring critical thinking skills. We concluded that students had a better appreciation for in-person laboratories after experiencing remote laboratory. In the future, student perceptions should be considered, along with their academic experiences, whenever laboratory teaching is done remotely."
+  },
+  {
+    "objectID": "scratch/publications/santos_retrospective_2023.html#reference",
+    "href": "scratch/publications/santos_retrospective_2023.html#reference",
+    "title": "Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory",
+    "section": "Reference",
+    "text": "Reference\nSantos JADl, Erickson M, Wattiaux MA, Parrish JJ (2023). “Retrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory.” NACTA Journal, 67(1). ISSN 0149-4910, doi:10.56103/nactaj.v67i1.123 https://doi.org/10.56103/nactaj.v67i1.123, Number: 1, https://www.nactajournal.org/index.php/nactaj/article/view/123.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_reducing_2024.html",
+    "href": "scratch/publications/erickson_reducing_2024.html",
+    "title": "Reducing dietary crude protein: Effects on digestibility, nitrogen balance, and blood metabolites in late-lactation Holstein cows",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_reducing_2024.html#reference",
+    "href": "scratch/publications/erickson_reducing_2024.html#reference",
+    "title": "Reducing dietary crude protein: Effects on digestibility, nitrogen balance, and blood metabolites in late-lactation Holstein cows",
+    "section": "Reference",
+    "text": "Reference\nErickson MG, Barros T, Aguerre MJ, Colmenero JO, Bertics SJ, Wattiaux MA (2024). “Reducing dietary crude protein: Effects on digestibility, nitrogen balance, and blood metabolites in late-lactation Holstein cows.” Journal of Dairy Science, 107(7), 4394-4408. Publisher: Elsevier, https://www.sciencedirect.com/science/article/pii/S0022030224000481.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_animal_2020.html",
+    "href": "scratch/publications/erickson_animal_2020.html",
+    "title": "Animal sciences undergraduate education since the ASAS centennial: a national survey and scoping review",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_animal_2020.html#reference",
+    "href": "scratch/publications/erickson_animal_2020.html#reference",
+    "title": "Animal sciences undergraduate education since the ASAS centennial: a national survey and scoping review",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Ranathunga S, Wattiaux M (2020). “Animal sciences undergraduate education since the ASAS centennial: a national survey and scoping review.” Translational Animal Science, 4(4), txaa202. Publisher: Oxford University Press US, https://academic.oup.com/tas/article-abstract/4/4/txaa202/5959870.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/pizarro_agroecological_2025.html",
+    "href": "scratch/publications/pizarro_agroecological_2025.html",
+    "title": "Agroecological performance of smallholder dairy cattle systems in the Peruvian Amazon",
+    "section": "",
+    "text": "Pizarro DM, Erickson MG, Gomez-Bravo CA, Picasso VD, Lucantoni D, Mottet A, Wattiaux MA (2025). “Agroecological performance of smallholder dairy cattle systems in the Peruvian Amazon.” Agricultural Systems, 223, 104199. ISSN 0308-521X, doi:10.1016/j.agsy.2024.104199 https://doi.org/10.1016/j.agsy.2024.104199, Publisher: Elsevier, https://www.sciencedirect.com/science/article/pii/S0308521X24003494.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/pizarro_agroecological_2025.html#reference",
+    "href": "scratch/publications/pizarro_agroecological_2025.html#reference",
+    "title": "Agroecological performance of smallholder dairy cattle systems in the Peruvian Amazon",
+    "section": "",
+    "text": "Pizarro DM, Erickson MG, Gomez-Bravo CA, Picasso VD, Lucantoni D, Mottet A, Wattiaux MA (2025). “Agroecological performance of smallholder dairy cattle systems in the Peruvian Amazon.” Agricultural Systems, 223, 104199. ISSN 0308-521X, doi:10.1016/j.agsy.2024.104199 https://doi.org/10.1016/j.agsy.2024.104199, Publisher: Elsevier, https://www.sciencedirect.com/science/article/pii/S0308521X24003494.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_student_2023.html",
+    "href": "scratch/publications/erickson_student_2023.html",
+    "title": "Student Perceptions of Biology laboratory Instruction in Pre, During, and Post-Pandemic: A Comparative Survey Study",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_student_2023.html#reference",
+    "href": "scratch/publications/erickson_student_2023.html#reference",
+    "title": "Student Perceptions of Biology laboratory Instruction in Pre, During, and Post-Pandemic: A Comparative Survey Study",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Wattiaux MA, Parrish JJ (2023). “Student Perceptions of Biology laboratory Instruction in Pre, During, and Post-Pandemic: A Comparative Survey Study.” NACTA Journal, 67(1). https://nactajournal.org/index.php/nactaj/article/view/123.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_poultry_2019.html",
+    "href": "scratch/publications/erickson_poultry_2019.html",
+    "title": "Poultry in the classroom: effectiveness of an online poultry-science-based education program for high school STEM instruction",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_poultry_2019.html#reference",
+    "href": "scratch/publications/erickson_poultry_2019.html#reference",
+    "title": "Poultry in the classroom: effectiveness of an online poultry-science-based education program for high school STEM instruction",
+    "section": "Reference",
+    "text": "Reference\nErickson MG, Erasmus MA, Karcher DM, Knobloch NA, Karcher EL (2019). “Poultry in the classroom: effectiveness of an online poultry-science-based education program for high school STEM instruction.” Poultry Science, 98(12), 6593-6601. Publisher: Elsevier, https://www.sciencedirect.com/science/article/pii/S0032579119579688.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/worden_decreasing_2018.html",
+    "href": "scratch/publications/worden_decreasing_2018.html",
+    "title": "Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/worden_decreasing_2018.html#reference",
+    "href": "scratch/publications/worden_decreasing_2018.html#reference",
+    "title": "Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves",
+    "section": "Reference",
+    "text": "Reference\nWorden LC, Erickson MG, Gramer S, Tap C, Ylioja C, Trottier N, Preseault CL, VandeHaar MJ, Lock AL, Karcher EL (2018). “Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves.” Journal of Dairy Science, 101(2), 1227-1233. Publisher: Elsevier, https://www.sciencedirect.com/science/article/pii/S0022030217310858.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_interest_2019.html",
+    "href": "scratch/publications/erickson_interest_2019.html",
+    "title": "Interest and active learning techniques in an introductory animal science course",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_interest_2019.html#reference",
+    "href": "scratch/publications/erickson_interest_2019.html#reference",
+    "title": "Interest and active learning techniques in an introductory animal science course",
+    "section": "Reference",
+    "text": "Reference\nErickson MG, Guberman D, Zhu H, Karcher E (2019). “Interest and active learning techniques in an introductory animal science course.” NACTA Journal, 63(2), 293-298. Publisher: JSTOR, https://www.jstor.org/stable/26769653.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/malacco_effect_2020.html",
+    "href": "scratch/publications/malacco_effect_2020.html",
+    "title": "Effect of glucose infusion dose and stage of lactation on glucose tolerance test kinetics in lactating dairy cows",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/malacco_effect_2020.html#reference",
+    "href": "scratch/publications/malacco_effect_2020.html#reference",
+    "title": "Effect of glucose infusion dose and stage of lactation on glucose tolerance test kinetics in lactating dairy cows",
+    "section": "Reference",
+    "text": "Reference\nMalacco VMR, Erickson M, Cardoso FF, Biese BP, Laguna JG, Donkin SS (2020). “Effect of glucose infusion dose and stage of lactation on glucose tolerance test kinetics in lactating dairy cows.” Journal of Dairy Science, 103(8), 7547-7554. Publisher: Elsevier, https://www.sciencedirect.com/science/article/pii/S0022030220303933.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/simmermeyer_associating_2022.html",
+    "href": "scratch/publications/simmermeyer_associating_2022.html",
+    "title": "Associating Synchronous and Asynchronous Remote Teaching Formats with Situational Interest and Motivation",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/simmermeyer_associating_2022.html#reference",
+    "href": "scratch/publications/simmermeyer_associating_2022.html#reference",
+    "title": "Associating Synchronous and Asynchronous Remote Teaching Formats with Situational Interest and Motivation",
+    "section": "Reference",
+    "text": "Reference\nSimmermeyer E, Erickson M, Walsh S, Karcher E (2022). “Associating Synchronous and Asynchronous Remote Teaching Formats with Situational Interest and Motivation.” NACTA Journal, 66(1). https://nactajournal.org/index.php/nactaj/article/view/29.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_manure_2025.html",
+    "href": "scratch/publications/erickson_manure_2025.html",
+    "title": "Manure use benefits and barriers according to agricultural stakeholders",
+    "section": "",
+    "text": "Using manure as a crop fertilizer promotes recycling of locally available organic nutrients and reduces needs for manufactured inorganic fertilizers. However, the factors that motivate and constrain manure use are unclear. To explore stakeholder perceptions, we designed a quantitative survey assessing potential benefits and barriers to manure use, knowledge of manure impacts, and preferred information resources. Using mailing lists and mass media, we distributed the online survey to a broad sample of crop farmers, animal feeding operation managers, and public and private sector advisors in the United States and Canada (n = 709 responses). In addition to computing descriptive statistics, we examined associations between participant role and years of experience with response choices using cumulative logistic and log-binomial models. Overall, respondents rated manure as highly beneficial to crop yields, soil fertility, soil physical properties, and soil biological properties, but shared mixed perceptions regarding the impacts of manure on environmental quality. The most frequently identified barriers to manure use were (1) the cost of manure transportation and land application, (2) odors and air quality impairment, and (3) the timeliness of manure application. Respondents reported they were likely to use scientific information sources and their professional networks in making manure nutrient management decisions. Additionally, we found that role and years of professional experience were often associated with response choices, illustrating distinct extension and education needs of different stakeholder segments. Our results indicated wide recognition of manure benefits to crop yields and soil properties and suggested that practical barriers may often limit manure use."
+  },
+  {
+    "objectID": "scratch/publications/erickson_manure_2025.html#reference",
+    "href": "scratch/publications/erickson_manure_2025.html#reference",
+    "title": "Manure use benefits and barriers according to agricultural stakeholders",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Cortus E, Koelsch R, Johnson L, Wilson ML, Andersen D, Zelt M, Schmidt AM (2025). “Manure use benefits and barriers according to agricultural stakeholders.” Agronomy Journal, 117(4), e70110. ISSN 1435-0645, doi:10.1002/agj2.70110 https://doi.org/10.1002/agj2.70110, _eprint: https://acsess.onlinelibrary.wiley.com/doi/pdf/10.1002/agj2.70110, https://onlinelibrary.wiley.com/doi/abs/10.1002/agj2.70110.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications/erickson_building_2025.html",
+    "href": "scratch/publications/erickson_building_2025.html",
+    "title": "Building value for dairy farmers and advisors in the Farmers Assuring Responsible Management Environmental Stewardship Program",
+    "section": "",
+    "text": ".na.character"
+  },
+  {
+    "objectID": "scratch/publications/erickson_building_2025.html#reference",
+    "href": "scratch/publications/erickson_building_2025.html#reference",
+    "title": "Building value for dairy farmers and advisors in the Farmers Assuring Responsible Management Environmental Stewardship Program",
+    "section": "Reference",
+    "text": "Reference\nErickson M, Rovai M, Villamediana P, Schmidt AM, Stowell RR, Cortus EL (2025). “Building value for dairy farmers and advisors in the Farmers Assuring Responsible Management Environmental Stewardship Program.” Translational Animal Science, 9, txaf038. Publisher: Oxford University Press US, https://academic.oup.com/tas/article-abstract/doi/10.1093/tas/txaf038/8092851.\n\n\n\nGraphical Abstract"
+  },
+  {
+    "objectID": "scratch/publications.html",
+    "href": "scratch/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nYear\n\n\nTitle\n\n\nAuthors\n\n\n\n\n\n\n2025\n\n\nChloride in Livestock and Poultry Manure Samples in the US Upper Midwest\n\n\nCortus, Erin L.; Erickson, MaryGrace; Mueller, Sabrina; Breker, John S.; Urriola, Pedro E.; Wilson, Melissa L.\n\n\n\n\n2025\n\n\nUncertainty of Manure Output Estimated with Intrinsic Markers for a Lactating Dairy Herd\n\n\nErickson, MaryGrace; Cortus, Erin L.\n\n\n\n\n2025\n\n\nAgroecological performance of smallholder dairy cattle systems in the Peruvian Amazon\n\n\nPizarro, D. M.; Erickson, M. G.; Gomez-Bravo, C. A.; Picasso, V. D.; Lucantoni, D.; Mottet, A.; Wattiaux, M. A.\n\n\n\n\n2025\n\n\nAssessing the impact of oscillating dietary crude protein on the stability of the rumen microbiome in dairy cattle\n\n\nViquez-Umana, F. L.; Erickson, M. G.; Young, J. D.; Zanton, G. I.; Wattiaux, M. A.; Suen, G.; Mantovani, H. C.\n\n\n\n\n2025\n\n\nManure use benefits and barriers according to agricultural stakeholders\n\n\nErickson, MaryGrace; Cortus, Erin; Koelsch, Rick; Johnson, Leslie; Wilson, Melissa L.; Andersen, Dan; Zelt, Mara; Schmidt, Amy Millmier\n\n\n\n\n2025\n\n\nBuilding value for dairy farmers and advisors in the Farmers Assuring Responsible Management Environmental Stewardship Program\n\n\nErickson, MaryGrace; Rovai, Maristela; Villamediana, Patricia; Schmidt, Amy M.; Stowell, Richard R.; Cortus, Erin L.\n\n\n\n\n2024\n\n\nReducing dietary crude protein: Effects on digestibility, nitrogen balance, and blood metabolites in late-lactation Holstein cows\n\n\nErickson, M. G.; Barros, T.; Aguerre, M. J.; Colmenero, JJ Olmos; Bertics, S. J.; Wattiaux, M. A.\n\n\n\n\n2024\n\n\nCrude protein oscillation in diets adequate and deficient in metabolizable protein: effects on nutrient digestibility, nitrogen balance, plasma amino acids, and greenhouse gas emissions\n\n\nErickson, M. G.; Reinhardt, L. A.; Svaren, L.; Sullivan, M. L.; Zanton, G. I.; Wattiaux, M. A.\n\n\n\n\n2024\n\n\nNonlinear models of 15N partitioning kinetics in late-lactation dairy cows from individually labeled feed ingredients\n\n\nReed, Kristan F.; Erickson, MaryGrace; Barros, Tiago; Danes, Marina A. C.; Powell, J. Mark; Zanton, Geoffrey I.; Wattiaux, Michel A.\n\n\n\n\n2023\n\n\nRetrospective ratings of learning across pre-pandemic, emergency-remote, and post-pandemic instruction in an introductory biology laboratory\n\n\nSantos, Jorge Antonio De los; Erickson, MaryGrace; Wattiaux, Michel A.; Parrish, John J.\n\n\n\n\n2023\n\n\nStudent Perceptions of Biology laboratory Instruction in Pre, During, and Post-Pandemic: A Comparative Survey Study\n\n\nErickson, MaryGrace; Wattiaux, Michel A.; Parrish, John J.\n\n\n\n\n2023\n\n\nDynamic lactation responses to dietary crude protein oscillation in diets adequate and deficient in metabolizable protein in Holstein cows\n\n\nErickson, M. G.; Zanton, G. I.; Wattiaux, M. A.\n\n\n\n\n2022\n\n\nCase Study: Introductory Student Onboarding With a Place-Based, Blended Welcome Tour\n\n\nErickson, MaryGrace; Wattiaux, Michel A\n\n\n\n\n2022\n\n\nAssociating Synchronous and Asynchronous Remote Teaching Formats with Situational Interest and Motivation\n\n\nSimmermeyer, Elizabeth; Erickson, MaryGrace; Walsh, Stefanie; Karcher, Elizabeth\n\n\n\n\n2021\n\n\nPractices and perceptions at the COVID‐19 transition in undergraduate animal science courses\n\n\nErickson, MaryGrace; Wattiaux, Michel A.\n\n\n\n\n2021\n\n\nBrief, written reflections improve interest of introductory animal science undergraduates\n\n\nErickson, MaryGrace; Wattiaux, Michel A; Marks, Danielle; Karcher, Elizabeth L\n\n\n\n\n2020\n\n\nAnimal sciences undergraduate education since the ASAS centennial: a national survey and scoping review\n\n\nErickson, MG; Ranathunga, SD; Wattiaux, MA\n\n\n\n\n2020\n\n\nHigh school student and teacher perceptions of an online learning experience integrating STEM and Poultry Science\n\n\nErickson, M.; Erasmus, Marisa A.; Karcher, Darrin M.; Knobloch, Neil A.; Karcher, Elizabeth L.\n\n\n\n\n2020\n\n\nCharacterizing Student Engagement with Hands-On, Problem-Based, and Lecture Activities in an Introductory College Course\n\n\nErickson, MaryGrace; Marks, Danielle; Karcher, Elizabeth\n\n\n\n\n2020\n\n\nStructured support advances extension educator intercultural development during a short-term study abroad experience\n\n\nErickson, MaryGrace; Grant, Jacie; Karcher, Elizabeth L.\n\n\n\n\n2020\n\n\nEffect of glucose infusion dose and stage of lactation on glucose tolerance test kinetics in lactating dairy cows\n\n\nMalacco, V. M. R.; Erickson, M.; Cardoso, F. F.; Biese, B. P.; Laguna, J. G.; Donkin, S. S.\n\n\n\n\n2020\n\n\nLongitudinal measurement invariance and stability of individual interest across a 16‐week introductory animal sciences course\n\n\nErickson, MaryGrace; Wattiaux, Michel A.; Karcher, Elizabeth L.\n\n\n\n\n2019\n\n\nUndergraduates’ experiences of transculturation toward engaged pedagogy through a partnership program in animal sciences\n\n\nErickson, Mary Grace; Guberman, Daniel; Karcher, Elizabeth\n\n\n\n\n2019\n\n\nPoultry in the classroom: effectiveness of an online poultry-science-based education program for high school STEM instruction\n\n\nErickson, Mary G.; Erasmus, Marisa A.; Karcher, Darrin M.; Knobloch, Neil A.; Karcher, Elizabeth L.\n\n\n\n\n2019\n\n\nInterest and active learning techniques in an introductory animal science course\n\n\nErickson, Mary Grace; Guberman, Dan; Zhu, Hao; Karcher, Elizabeth\n\n\n\n\n2018\n\n\nDecreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves\n\n\nWorden, L. C.; Erickson, M. G.; Gramer, S.; Tap, C.; Ylioja, C.; Trottier, N.; Preseault, C. L.; VandeHaar, M. J.; Lock, A. L.; Karcher, E. L.\n\n\n\n\n\nNo matching items"
   }
 ]

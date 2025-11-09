@@ -1,0 +1,25 @@
+---
+authors: Erickson, MaryGrace; Wattiaux, Michel A; Marks, Danielle;
+  Karcher, Elizabeth L
+image: pub_images//erickson_brief_2021.png
+img_exists: "FALSE"
+link: "https://www.lifescied.org/doi/10.1187/cbe.20-08-0164"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_brief_2021.pdf
+title: Brief, written reflections improve interest of introductory
+  animal science undergraduates
+toc-title: Table of contents
+year: 2021
+---
+
+## Reference
+
+Erickson M, Wattiaux MA, Marks D, Karcher EL (2021). "Brief, written
+reflections improve interest of introductory animal science
+undergraduates." *LSE*, *20*(2), ar28. ISSN 1931-7913,
+doi:10.1187/cbe.20-08-0164 <https://doi.org/10.1187/cbe.20-08-0164>,
+Publisher: American Society for Cell Biology,
+<https://www.lifescied.org/doi/10.1187/cbe.20-08-0164>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

@@ -1,9 +1,37 @@
 ---
-title: "About"
+title: "About Me"
+page-layout: full
+listing:
+  id: listing-gallery
+  template: gallery.ejs
+  contents:
+    - "gallery/*.jpeg"
+  sort-ui: false
+  filter-ui: false
+  categories: false
+about:
+  template: trestles
+  links:
+      - text: "{{< fa envelope >}} Email"
+        url: mailto:mgerickson.ag@gmail.com
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/marygraceerickson/
+      - text: "{{< ai google-scholar >}} Google Scholar"
+        url: https://scholar.google.com/citations?user=hPlGprcAAAAJ&hl=en
+      - icon: github
+        text: Github
+        url: https://github.com/merickson3/
+      - text: "{{< fa cow >}}"
+        url: ""
+      - text: "{{< ai researchgate >}} ResearchGate"
+        url: https://www.researchgate.net/profile/Mary-Grace-Erickson?ev=hdr_xprf
+  image-width: 12em
+  image-shape: round
+image: "images/mgerickson-mn.jpeg"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+
+::: {#listing-gallery}
+:::

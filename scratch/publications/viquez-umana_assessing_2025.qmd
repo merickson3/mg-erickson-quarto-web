@@ -1,0 +1,61 @@
+---
+authors: Viquez-Umana, F. L.; Erickson, M. G.; Young, J. D.; Zanton, G.
+  I.; Wattiaux, M. A.; Suen, G.; Mantovani, H. C.
+image: pub_images//viquez-umana_assessing_2025.png
+img_exists: "TRUE"
+link: "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1568112/full"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/viquez-umana_assessing_2025.pdf
+title: Assessing the impact of oscillating dietary crude protein on the
+  stability of the rumen microbiome in dairy cattle
+toc-title: Table of contents
+year: 2025
+---
+
+IntroductionUnderstanding how the rumen microbiota responds to varying
+protein levels and feeding patterns is critical for optimizing dairy
+cattle nutrition. This study investigated the influence of dietary crude
+protein (CP) levels (13.8% or 15.5% CP of ration dry matter) and CP
+feeding patterns (constant over time (static) or oscillating by 1.8
+percentage units above and below the mean every 48 h) on the
+composition, diversity, and function of the rumen
+microbiome.MethodsUsing a replicated Latin Square design, eight
+rumen-cannulated Holstein cows were assigned each of the four dietary
+treatments (structured as a 2 × 2 factorial) in four consecutive 28-day
+periods (with 24 days of adaptation and 4 days of sampling). Rumen
+samples were collected 4 h post-feeding, and amplicon libraries of the
+V4 region of the 16S rRNA gene were sequenced and analyzed to assess
+changes in microbiome composition. Additionally, volatile fatty acids
+(VFAs) were measured to evaluate rumen microbial function.ResultsResults
+indicated that dietary CP level did not alter microbial diversity (p =
+0.30), but oscillating diets increased rumen microbial diversity
+(Shannon index, p = 0.04). The rumen microbiome richness was also
+affected by CP feeding pattern (p = 0.05), but not dietary CP level (p =
+0.27). Furthermore, differential abundance analysis using ANCOM-BC
+identified CAG- 352 (p = 0.0001) and an unclassified member of the
+family Acholeplasmataceae (p = 0.0002) as taxa significantly impacted by
+protein level and feeding pattern, even though their relative abundance
+was low (below 0.02%). The functional profile of the rumen bacterial
+communities was not affected by CP level or feeding pattern, and VFA
+profiles also remained consistent across treatments, with no observable
+changes in concentration.DiscussionThese findings support the hypothesis
+that the rumen microbiome remains stable despite variations in the
+ruminal supply of dietary CP, suggesting that compensatory mechanisms
+may be involved. Although oscillating dietary CP concentration might
+alter the rumen microbiome, further research into rumen metabolic
+processes and host-microbiome interactions is needed to evaluate if the
+changes observed in our study are biologically relevant for developing
+new opportunities to enhance protein nutrition in dairy cattle.
+
+## Reference
+
+Viquez-Umana FL, Erickson MG, Young JD, Zanton GI, Wattiaux MA, Suen G,
+Mantovani HC (2025). "Assessing the impact of oscillating dietary crude
+protein on the stability of the rumen microbiome in dairy cattle."
+*Front. Microbiol.*, *16*, 1568112. ISSN 1664-302X,
+doi:10.3389/fmicb.2025.1568112
+<https://doi.org/10.3389/fmicb.2025.1568112>, Publisher: Frontiers,
+<https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1568112/full>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

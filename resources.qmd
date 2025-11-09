@@ -1,0 +1,34 @@
+---
+title: "Resources"
+about:
+  template: marquee
+  links:
+      - text: "{{< fa envelope >}} Email"
+        url: mailto:mgerickson.ag@gmail.com
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/marygraceerickson/
+      - text: "{{< ai google-scholar >}} Google Scholar"
+        url: https://scholar.google.com/citations?user=hPlGprcAAAAJ&hl=en
+      - icon: github
+        text: Github
+        url: https://github.com/merickson3/
+  #    - text: "{{< fa cow >}}"
+   #     url: ""
+      - text: "{{< ai researchgate >}} ResearchGate"
+        url: https://www.researchgate.net/profile/Mary-Grace-Erickson?ev=hdr_xprf
+---
+
+## Learning from NASEM (2021) - Decoding Dairy Diets
+
+In 2023, I created an online interactive textbook introducing nutritional and environmental modeling in R and Python based on NASEM (2021). A pilot version was shared at ADSA 2023: [Decoding Dairy Diets](https://merickson3.github.io/NASEM_pilot/).
+
+[![Decoding Dairy Diets](images/DecodingDairyDietsexample.png)](https://merickson3.github.io/NASEM_pilot/index.html#intended-audience)
+
+## dairynasem R package
+
+[<img src="https://merickson3.github.io/images/dairynasem_logo.png" width="35%"/>](https://github.com/merickson3/dairynasem/tree/main)
+
+I developed an R package to run the NASEM (2021) model on batched inputs.
+
+[Github repository for dairynasem](https://github.com/merickson3/dairynasem/tree/main)

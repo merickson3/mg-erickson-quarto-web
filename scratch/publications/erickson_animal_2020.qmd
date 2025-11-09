@@ -1,0 +1,25 @@
+---
+authors: Erickson, MG; Ranathunga, SD; Wattiaux, MA
+image: pub_images//erickson_animal_2020.png
+img_exists: "FALSE"
+link: "https://academic.oup.com/tas/article-abstract/4/4/txaa202/5959870"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_animal_2020.pdf
+title: "Animal sciences undergraduate education since the ASAS
+  centennial: a national survey and scoping review"
+toc-title: Table of contents
+year: 2020
+---
+
+.na.character
+
+## Reference
+
+Erickson M, Ranathunga S, Wattiaux M (2020). "Animal sciences
+undergraduate education since the ASAS centennial: a national survey and
+scoping review." *Translational Animal Science*, *4*(4), txaa202.
+Publisher: Oxford University Press US,
+<https://academic.oup.com/tas/article-abstract/4/4/txaa202/5959870>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

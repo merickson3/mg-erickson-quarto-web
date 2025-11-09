@@ -1,0 +1,24 @@
+---
+authors: Erickson, MaryGrace; Grant, Jacie; Karcher, Elizabeth L.
+image: pub_images//erickson_structured_2020.png
+img_exists: "FALSE"
+link: "https://open.clemson.edu/joe/vol58/iss4/12/"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_structured_2020.pdf
+title: Structured support advances extension educator intercultural
+  development during a short-term study abroad experience
+toc-title: Table of contents
+year: 2020
+---
+
+.na.character
+
+## Reference
+
+Erickson M, Grant J, Karcher EL (2020). "Structured support advances
+extension educator intercultural development during a short-term study
+abroad experience." *The Journal of Extension*, *58*(4), 12.
+<https://open.clemson.edu/joe/vol58/iss4/12/>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

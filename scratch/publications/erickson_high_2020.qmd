@@ -1,0 +1,26 @@
+---
+authors: Erickson, M.; Erasmus, Marisa A.; Karcher, Darrin M.; Knobloch,
+  Neil A.; Karcher, Elizabeth L.
+image: pub_images//erickson_high_2020.png
+img_exists: "FALSE"
+link: "https://www.researchgate.net/profile/Mary-Grace-Erickson/publication/343724993_High_School_Student_and_Teacher_Perceptions_of_an_Online_Learning_Experience_Integrating_STEM_and_Poultry_Science/links/5f3c18e7a6fdcccc43d30b3f/High-School-Student-and-Teacher-Perceptions-of-an-Online-Learning-Experience-Integrating-STEM-and-Poultry-Science.pdf"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_high_2020.pdf
+title: High school student and teacher perceptions of an online learning
+  experience integrating STEM and Poultry Science
+toc-title: Table of contents
+year: 2020
+---
+
+.na.character
+
+## Reference
+
+Erickson M, Erasmus MA, Karcher DM, Knobloch NA, Karcher EL (2020).
+"High school student and teacher perceptions of an online learning
+experience integrating STEM and Poultry Science." *Journal of
+Agricultural Education*, *61*(2), 20-40.
+<https://www.researchgate.net/profile/Mary-Grace-Erickson/publication/343724993_High_School_Student_and_Teacher_Perceptions_of_an_Online_Learning_Experience_Integrating_STEM_and_Poultry_Science/links/5f3c18e7a6fdcccc43d30b3f/High-School-Student-and-Teacher-Perceptions-of-an-Online-Learning-Experience-Integrating-STEM-and-Poultry-Science.pdf>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

@@ -1,0 +1,54 @@
+---
+authors: Erickson, MaryGrace; Cortus, Erin; Koelsch, Rick; Johnson,
+  Leslie; Wilson, Melissa L.; Andersen, Dan; Zelt, Mara; Schmidt, Amy
+  Millmier
+image: pub_images//erickson_manure_2025.png
+img_exists: "TRUE"
+link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/agj2.70110"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_manure_2025.pdf
+title: Manure use benefits and barriers according to agricultural
+  stakeholders
+toc-title: Table of contents
+year: 2025
+---
+
+Using manure as a crop fertilizer promotes recycling of locally
+available organic nutrients and reduces needs for manufactured inorganic
+fertilizers. However, the factors that motivate and constrain manure use
+are unclear. To explore stakeholder perceptions, we designed a
+quantitative survey assessing potential benefits and barriers to manure
+use, knowledge of manure impacts, and preferred information resources.
+Using mailing lists and mass media, we distributed the online survey to
+a broad sample of crop farmers, animal feeding operation managers, and
+public and private sector advisors in the United States and Canada (n =
+709 responses). In addition to computing descriptive statistics, we
+examined associations between participant role and years of experience
+with response choices using cumulative logistic and log-binomial models.
+Overall, respondents rated manure as highly beneficial to crop yields,
+soil fertility, soil physical properties, and soil biological
+properties, but shared mixed perceptions regarding the impacts of manure
+on environmental quality. The most frequently identified barriers to
+manure use were (1) the cost of manure transportation and land
+application, (2) odors and air quality impairment, and (3) the
+timeliness of manure application. Respondents reported they were likely
+to use scientific information sources and their professional networks in
+making manure nutrient management decisions. Additionally, we found that
+role and years of professional experience were often associated with
+response choices, illustrating distinct extension and education needs of
+different stakeholder segments. Our results indicated wide recognition
+of manure benefits to crop yields and soil properties and suggested that
+practical barriers may often limit manure use.
+
+## Reference
+
+Erickson M, Cortus E, Koelsch R, Johnson L, Wilson ML, Andersen D, Zelt
+M, Schmidt AM (2025). "Manure use benefits and barriers according to
+agricultural stakeholders." *Agronomy Journal*, *117*(4), e70110. ISSN
+1435-0645, doi:10.1002/agj2.70110 <https://doi.org/10.1002/agj2.70110>,
+\_eprint:
+https://acsess.onlinelibrary.wiley.com/doi/pdf/10.1002/agj2.70110,
+<https://onlinelibrary.wiley.com/doi/abs/10.1002/agj2.70110>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

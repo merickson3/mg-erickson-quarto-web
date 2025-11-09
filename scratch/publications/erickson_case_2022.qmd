@@ -1,0 +1,23 @@
+---
+authors: Erickson, MaryGrace; Wattiaux, Michel A
+image: pub_images//erickson_case_2022.png
+img_exists: "FALSE"
+link: "https://eric.ed.gov/?id = EJ1458271"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_case_2022.pdf
+title: "Case Study: Introductory Student Onboarding With a Place-Based,
+  Blended Welcome Tour"
+toc-title: Table of contents
+year: 2022
+---
+
+.na.character
+
+## Reference
+
+Erickson M, Wattiaux MA (2022). "Case Study: Introductory Student
+Onboarding With a Place-Based, Blended Welcome Tour." *NACTA Journal*,
+*66*, 123. Publisher: ERIC, <https://eric.ed.gov/?id=EJ1458271>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

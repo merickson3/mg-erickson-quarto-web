@@ -1,0 +1,25 @@
+---
+authors: Simmermeyer, Elizabeth; Erickson, MaryGrace; Walsh, Stefanie;
+  Karcher, Elizabeth
+image: pub_images//simmermeyer_associating_2022.png
+img_exists: "FALSE"
+link: "https://nactajournal.org/index.php/nactaj/article/view/29"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/simmermeyer_associating_2022.pdf
+title: Associating Synchronous and Asynchronous Remote Teaching Formats
+  with Situational Interest and Motivation
+toc-title: Table of contents
+year: 2022
+---
+
+.na.character
+
+## Reference
+
+Simmermeyer E, Erickson M, Walsh S, Karcher E (2022). "Associating
+Synchronous and Asynchronous Remote Teaching Formats with Situational
+Interest and Motivation." *NACTA Journal*, *66*(1).
+<https://nactajournal.org/index.php/nactaj/article/view/29>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

@@ -1,0 +1,24 @@
+---
+authors: Erickson, MaryGrace; Wattiaux, Michel A.; Parrish, John J.
+image: pub_images//erickson_student_2023.png
+img_exists: "FALSE"
+link: "https://nactajournal.org/index.php/nactaj/article/view/123"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_student_2023.pdf
+title: "Student Perceptions of Biology laboratory Instruction in Pre,
+  During, and Post-Pandemic: A Comparative Survey Study"
+toc-title: Table of contents
+year: 2023
+---
+
+.na.character
+
+## Reference
+
+Erickson M, Wattiaux MA, Parrish JJ (2023). "Student Perceptions of
+Biology laboratory Instruction in Pre, During, and Post-Pandemic: A
+Comparative Survey Study." *NACTA Journal*, *67*(1).
+<https://nactajournal.org/index.php/nactaj/article/view/123>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

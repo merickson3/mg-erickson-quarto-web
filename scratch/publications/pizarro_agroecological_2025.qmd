@@ -1,0 +1,25 @@
+---
+authors: Pizarro, D. M.; Erickson, M. G.; Gomez-Bravo, C. A.; Picasso,
+  V. D.; Lucantoni, D.; Mottet, A.; Wattiaux, M. A.
+image: pub_images//pizarro_agroecological_2025.png
+img_exists: "TRUE"
+link: "https://www.sciencedirect.com/science/article/pii/S0308521X24003494"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/pizarro_agroecological_2025.pdf
+title: Agroecological performance of smallholder dairy cattle systems in
+  the Peruvian Amazon
+toc-title: Table of contents
+year: 2025
+---
+
+## Reference
+
+Pizarro DM, Erickson MG, Gomez-Bravo CA, Picasso VD, Lucantoni D, Mottet
+A, Wattiaux MA (2025). "Agroecological performance of smallholder dairy
+cattle systems in the Peruvian Amazon." *Agricultural Systems*, *223*,
+104199. ISSN 0308-521X, doi:10.1016/j.agsy.2024.104199
+<https://doi.org/10.1016/j.agsy.2024.104199>, Publisher: Elsevier,
+<https://www.sciencedirect.com/science/article/pii/S0308521X24003494>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

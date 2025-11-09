@@ -3,18 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "Test Quarto Website"
+  title: "MaryGrace Erickson"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+   #   - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: resources.qmd
+        text: Resources
+
+  favicon: images/favicon.png
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: simplex # zephyr # yeti ## united # simplex # lux #cosmo
+      dark: cyborg
     css: styles.css
     toc: true
+    respect-user-color-scheme: false
+    lightbox: false
 
 editor: visual
 

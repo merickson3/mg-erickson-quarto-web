@@ -1,0 +1,26 @@
+---
+authors: Malacco, V. M. R.; Erickson, M.; Cardoso, F. F.; Biese, B. P.;
+  Laguna, J. G.; Donkin, S. S.
+image: pub_images//malacco_effect_2020.png
+img_exists: "FALSE"
+link: "https://www.sciencedirect.com/science/article/pii/S0022030220303933"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/malacco_effect_2020.pdf
+title: Effect of glucose infusion dose and stage of lactation on glucose
+  tolerance test kinetics in lactating dairy cows
+toc-title: Table of contents
+year: 2020
+---
+
+.na.character
+
+## Reference
+
+Malacco VMR, Erickson M, Cardoso FF, Biese BP, Laguna JG, Donkin SS
+(2020). "Effect of glucose infusion dose and stage of lactation on
+glucose tolerance test kinetics in lactating dairy cows." *Journal of
+Dairy Science*, *103*(8), 7547-7554. Publisher: Elsevier,
+<https://www.sciencedirect.com/science/article/pii/S0022030220303933>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

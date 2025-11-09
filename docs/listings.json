@@ -1,0 +1,68 @@
+[
+  {
+    "listing": "/about.html",
+    "items": []
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/scratch/publications/pizarro_agroecological_2025.html",
+      "/scratch/publications/viquez-umana_assessing_2025.html",
+      "/scratch/publications/erickson_building_2025.html",
+      "/scratch/publications/cortus_chloride_2025.html",
+      "/scratch/publications/erickson_manure_2025.html",
+      "/scratch/publications/erickson_uncertainty_2025.html",
+      "/scratch/publications/erickson_crude_2024.html",
+      "/scratch/publications/reed_nonlinear_2024.html",
+      "/scratch/publications/erickson_reducing_2024.html",
+      "/scratch/publications/erickson_dynamic_2023.html",
+      "/scratch/publications/santos_retrospective_2023.html",
+      "/scratch/publications/erickson_student_2023.html",
+      "/scratch/publications/simmermeyer_associating_2022.html",
+      "/scratch/publications/erickson_case_2022.html",
+      "/scratch/publications/erickson_brief_2021.html",
+      "/scratch/publications/erickson_practices_2021.html",
+      "/scratch/publications/erickson_animal_2020.html",
+      "/scratch/publications/erickson_characterizing_2020.html",
+      "/scratch/publications/malacco_effect_2020.html",
+      "/scratch/publications/erickson_high_2020.html",
+      "/scratch/publications/erickson_longitudinal_2020.html",
+      "/scratch/publications/erickson_structured_2020.html",
+      "/scratch/publications/erickson_interest_2019.html",
+      "/scratch/publications/erickson_poultry_2019.html",
+      "/scratch/publications/erickson_undergraduates_2019.html",
+      "/scratch/publications/worden_decreasing_2018.html"
+    ]
+  },
+  {
+    "listing": "/scratch/publications.html",
+    "items": [
+      "/scratch/publications/cortus_chloride_2025.html",
+      "/scratch/publications/erickson_uncertainty_2025.html",
+      "/scratch/publications/pizarro_agroecological_2025.html",
+      "/scratch/publications/viquez-umana_assessing_2025.html",
+      "/scratch/publications/erickson_manure_2025.html",
+      "/scratch/publications/erickson_building_2025.html",
+      "/scratch/publications/erickson_reducing_2024.html",
+      "/scratch/publications/erickson_crude_2024.html",
+      "/scratch/publications/reed_nonlinear_2024.html",
+      "/scratch/publications/santos_retrospective_2023.html",
+      "/scratch/publications/erickson_student_2023.html",
+      "/scratch/publications/erickson_dynamic_2023.html",
+      "/scratch/publications/erickson_case_2022.html",
+      "/scratch/publications/simmermeyer_associating_2022.html",
+      "/scratch/publications/erickson_practices_2021.html",
+      "/scratch/publications/erickson_brief_2021.html",
+      "/scratch/publications/erickson_animal_2020.html",
+      "/scratch/publications/erickson_high_2020.html",
+      "/scratch/publications/erickson_characterizing_2020.html",
+      "/scratch/publications/erickson_structured_2020.html",
+      "/scratch/publications/malacco_effect_2020.html",
+      "/scratch/publications/erickson_longitudinal_2020.html",
+      "/scratch/publications/erickson_undergraduates_2019.html",
+      "/scratch/publications/erickson_poultry_2019.html",
+      "/scratch/publications/erickson_interest_2019.html",
+      "/scratch/publications/worden_decreasing_2018.html"
+    ]
+  }
+]

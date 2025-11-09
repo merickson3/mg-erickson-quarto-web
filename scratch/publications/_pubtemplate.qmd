@@ -1,0 +1,34 @@
+---
+params:
+  authors: null
+  abstract: null
+  ref: null
+  link: null
+  year: null
+  image: null
+  img_exists: null
+  pdf_exists: null
+  preprint: null # should rename this to file in all the locations
+engine: knitr
+---
+
+`r params$abstract`
+
+
+## Reference
+
+`r params$ref`
+
+---
+authors: "`r params$authors`"
+year: "`r params$year`"
+image: "`r params$image`"
+preprint: "`r params$preprint`" 
+img_exists: "`r params$img_exists`"
+pdf_exists: "`r params$pdf_exists`" 
+link: "`r params$link`" 
+
+---
+
+
+![Graphical Abstract](%60r%20params$image%60)

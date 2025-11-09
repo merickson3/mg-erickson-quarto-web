@@ -1,0 +1,55 @@
+---
+authors: Santos, Jorge Antonio De los; Erickson, MaryGrace; Wattiaux,
+  Michel A.; Parrish, John J.
+image: pub_images//santos_retrospective_2023.png
+img_exists: "FALSE"
+link: "https://www.nactajournal.org/index.php/nactaj/article/view/123"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/santos_retrospective_2023.pdf
+title: Retrospective ratings of learning across pre-pandemic,
+  emergency-remote, and post-pandemic instruction in an introductory
+  biology laboratory
+toc-title: Table of contents
+year: 2023
+---
+
+In 2019 a global pandemic forced biology teaching laboratories to move
+remotely. In this article we present data on student perceptions of
+laboratory instruction modality as experienced pre-, during, and
+post-pandemic. Our research took place at the University of
+Wisconsin-Madison in 2022. We designed a survey to evaluate students'
+perception of key components of scientific critical thinking set as
+learning outcomes of the laboratory of an introductory biology course.
+Participants included students who took the course under the same
+teaching assistant. We surveyed four consecutive semesters in which
+teaching and learning environments were drastically altered: A)
+pre-pandemic in-person instruction Fall 2019, B) pandemic
+emergency-remote instruction Spring 2020, C) pandemic full-semester
+online instruction Fall 2020, and D) post-pandemic return to in-person
+instruction Spring 2021. We found differences in the response to four of
+the nine survey items. First, greater ratings were observed for D
+(post-pandemic in-person Spring 2021) relative to C (pandemic
+full-semester online Fall 2020) for the following three items: (a)
+developing research questions and hypotheses, (b) performing experiments
+and (c) level of engagement. Furthermore, the rating for the overall
+laboratory quality was greater for D (post-pandemic in-person Spring
+2021) relative to A (pre-pandemic in-person Fall 2019). There were no
+differences in students' perception for the following four items:
+presenting data, performing statistical analysis, discussion of results,
+and acquiring critical thinking skills. We concluded that students had a
+better appreciation for in-person laboratories after experiencing remote
+laboratory. In the future, student perceptions should be considered,
+along with their academic experiences, whenever laboratory teaching is
+done remotely. &nbsp;
+
+## Reference
+
+Santos JADl, Erickson M, Wattiaux MA, Parrish JJ (2023). "Retrospective
+ratings of learning across pre-pandemic, emergency-remote, and
+post-pandemic instruction in an introductory biology laboratory." *NACTA
+Journal*, *67*(1). ISSN 0149-4910, doi:10.56103/nactaj.v67i1.123
+<https://doi.org/10.56103/nactaj.v67i1.123>, Number: 1,
+<https://www.nactajournal.org/index.php/nactaj/article/view/123>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

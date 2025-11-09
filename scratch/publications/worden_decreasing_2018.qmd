@@ -1,0 +1,29 @@
+---
+authors: Worden, L. C.; Erickson, M. G.; Gramer, S.; Tap, C.; Ylioja,
+  C.; Trottier, N.; Preseault, C. L.; VandeHaar, M. J.; Lock, A. L.;
+  Karcher, E. L.
+image: pub_images//worden_decreasing_2018.png
+img_exists: "FALSE"
+link: "https://www.sciencedirect.com/science/article/pii/S0022030217310858"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/worden_decreasing_2018.pdf
+title: Decreasing the dietary ratio of n-6 to n-3 fatty acids increases
+  the n-3 concentration of peripheral blood mononuclear cells in weaned
+  Holstein heifer calves
+toc-title: Table of contents
+year: 2018
+---
+
+.na.character
+
+## Reference
+
+Worden LC, Erickson MG, Gramer S, Tap C, Ylioja C, Trottier N, Preseault
+CL, VandeHaar MJ, Lock AL, Karcher EL (2018). "Decreasing the dietary
+ratio of n-6 to n-3 fatty acids increases the n-3 concentration of
+peripheral blood mononuclear cells in weaned Holstein heifer calves."
+*Journal of Dairy Science*, *101*(2), 1227-1233. Publisher: Elsevier,
+<https://www.sciencedirect.com/science/article/pii/S0022030217310858>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

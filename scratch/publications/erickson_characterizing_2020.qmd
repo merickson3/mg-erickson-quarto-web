@@ -1,0 +1,41 @@
+---
+authors: Erickson, MaryGrace; Marks, Danielle; Karcher, Elizabeth
+image: pub_images//erickson_characterizing_2020.png
+img_exists: "TRUE"
+link: "https://eric.ed.gov/?id = EJ1251142"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_characterizing_2020.pdf
+title: Characterizing Student Engagement with Hands-On, Problem-Based,
+  and Lecture Activities in an Introductory College Course
+toc-title: Table of contents
+year: 2020
+---
+
+This study examines the interest, motivation, and behavioral engagement
+of college students in an introductory course relative to three
+instructional formats used in the course: hands-on, problem-based
+laboratory stations; problem-based written case studies; and video
+lectures. Groups of five to seven students were assigned learning
+activities as treatments in a Latin Square design consisting of three
+experimental periods. At the beginning of selected laboratory sessions,
+students completed 10 minutes of the experimental activity immediately
+followed by a questionnaire. Students rated hands-on, problem-based
+laboratory stations as more challenging, novel, and attention-grabbing
+than they rated case studies or video lectures. Interest, intrinsic
+motivation, and behavioral engagement were greatest for groups
+completing laboratory stations followed by those completing case studies
+and lectures, respectively. Overall, the greater situational interest
+experienced during laboratory stations and case studies indicates that
+these activities can be leveraged to create learning environments that
+promote interest, engagement, and achievement.
+
+## Reference
+
+Erickson M, Marks D, Karcher E (2020). "Characterizing Student
+Engagement with Hands-On, Problem-Based, and Lecture Activities in an
+Introductory College Course." *Teaching & Learning Inquiry*, *8*(1),
+138-153. ISSN 2167-4779, Publisher: University of Calgary ERIC Number:
+EJ1251142, <https://eric.ed.gov/?id=EJ1251142>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

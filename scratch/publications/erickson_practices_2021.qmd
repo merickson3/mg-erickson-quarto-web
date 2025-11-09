@@ -1,0 +1,23 @@
+---
+authors: Erickson, MaryGrace; Wattiaux, Michel A.
+image: pub_images//erickson_practices_2021.png
+img_exists: "FALSE"
+link: "https://acsess.onlinelibrary.wiley.com/doi/10.1002/nse2.20039"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_practices_2021.pdf
+title: Practices and perceptions at the COVID‐19 transition in
+  undergraduate animal science courses
+toc-title: Table of contents
+year: 2021
+---
+
+## Reference
+
+Erickson M, Wattiaux MA (2021). "Practices and perceptions at the
+COVID‐19 transition in undergraduate animal science courses." *Natural
+Sciences Education*, *50*(1), e20039. ISSN 2168-8273, 2168-8281,
+doi:10.1002/nse2.20039 <https://doi.org/10.1002/nse2.20039>,
+<https://acsess.onlinelibrary.wiley.com/doi/10.1002/nse2.20039>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

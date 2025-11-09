@@ -1,0 +1,28 @@
+---
+authors: Erickson, M. G.; Barros, T.; Aguerre, M. J.; Colmenero, JJ
+  Olmos; Bertics, S. J.; Wattiaux, M. A.
+image: pub_images//erickson_reducing_2024.png
+img_exists: "TRUE"
+link: "https://www.sciencedirect.com/science/article/pii/S0022030224000481"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_reducing_2024.pdf
+title: "Reducing dietary crude protein: Effects on digestibility,
+  nitrogen balance, and blood metabolites in late-lactation Holstein
+  cows"
+toc-title: Table of contents
+year: 2024
+---
+
+.na.character
+
+## Reference
+
+Erickson MG, Barros T, Aguerre MJ, Colmenero JO, Bertics SJ, Wattiaux MA
+(2024). "Reducing dietary crude protein: Effects on digestibility,
+nitrogen balance, and blood metabolites in late-lactation Holstein
+cows." *Journal of Dairy Science*, *107*(7), 4394-4408. Publisher:
+Elsevier,
+<https://www.sciencedirect.com/science/article/pii/S0022030224000481>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

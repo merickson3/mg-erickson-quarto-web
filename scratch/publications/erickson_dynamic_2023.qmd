@@ -1,0 +1,63 @@
+---
+authors: Erickson, M. G.; Zanton, G. I.; Wattiaux, M. A.
+image: pub_images//erickson_dynamic_2023.png
+img_exists: "TRUE"
+link: "https://www.journalofdairyscience.org/article/S0022-0302(23)00610-0/fulltext#articleInformation"
+params:
+pdf_exists: "TRUE"
+preprint: scratch/publications/pub_files/erickson_dynamic_2023.pdf
+title: Dynamic lactation responses to dietary crude protein oscillation
+  in diets adequate and deficient in metabolizable protein in Holstein
+  cows
+toc-title: Table of contents
+year: 2023
+---
+
+Limited research has examined the interaction between dietary crude
+protein (CP) level and CP feeding pattern. We tested CP level (low
+protein \[LP\], 13.8%; high protein \[HP\], 15.5% CP, dry matter \[DM\]
+basis) and CP feeding pattern (OF = oscillating, SF = static) using a 2
+× 2 factorial in 16 mid- to late-lactation Holsteins (initially 128
+$\pm$ 12 d in milk; mean $\pm$ SD). Cows ate total mixed rations
+formulated by exchanging soy hulls and ground corn with solvent soybean
+meal to keep constant ratios of neutral detergent fiber to starch
+(1.18:1), rumen-degradable protein to CP (0.61:1), and
+forage-to-concentrate (1.5:1) in DM. The OF treatments alternated diets
+every 48 h to vary CP above and below the mean CP level (OF-LP = 13.8%
+$\pm$ 1.8%; OF-HP = 15.5% $\pm$ 1.8% CP \[DM basis\]) whereas diets were
+constant in SF (SF-LP = 13.8%; SF-HP = 15.5% CP \[DM basis\]). In four
+28-d periods, 8 rumen-cannulated and 8 noncannulated cows formed 2 Latin
+rectangles. On d 25 to 28 of each period, each cow's feed intake and
+milk production were recorded, and samples were taken of orts (1×/d) and
+milk (2×/d). We fit linear mixed models with fixed CP level, CP feeding
+pattern, and period effects, and a random intercept for cow, computing
+least squares means and standard errors. Neither CP level, CP feeding
+pattern, nor the interaction affected DM intake, feed efficiency, or
+production of milk, fat- and protein-corrected milk (FPCM), fat, true
+protein, or lactose. Milk urea-N (MUN) yield was lesser for LP. The LP
+and OF conditions decreased MUN concentration. The CP level tended to
+interact with CP feeding pattern so that milk protein concentration was
+greatest for OF-HP. The OF and LP conditions increased the ratio of true
+protein to MUN yield. Within OF, cosinor mixed models of selected
+variables showed that cows maintained production of FPCM across dietary
+changes, but MUN followed a wave-pattern at a 2-d delay relative to
+dietary changes. A tendency for lesser MUN with OF contradicted prior
+research and suggested potential differences in urea-N metabolism
+between OF and SF. Results showed that cows maintained production of
+economically-relevant components regardless of CP feeding pattern and CP
+level. Contrary to our hypothesis, the effects of 48-h oscillating CP
+were mostly consistent across CP levels, suggesting that productivity is
+resilient to patterned variation in dietary CP over time even when
+average CP supply is low (13.8% of DM) and despite 48 h restrictions at
+12.2% CP.
+
+## Reference
+
+Erickson MG, Zanton GI, Wattiaux MA (2023). "Dynamic lactation responses
+to dietary crude protein oscillation in diets adequate and deficient in
+metabolizable protein in Holstein cows." *Journal of Dairy Science*,
+*0*(0), 8774-8786. ISSN 0022-0302, doi:10.3168/jds.2023-23603
+<https://doi.org/10.3168/jds.2023-23603>, Publisher: Elsevier,
+<https://www.journalofdairyscience.org/article/S0022-0302(23)00610-0/fulltext#articleInformation>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

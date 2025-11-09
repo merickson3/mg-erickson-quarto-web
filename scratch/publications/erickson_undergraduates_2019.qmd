@@ -1,0 +1,24 @@
+---
+authors: Erickson, Mary Grace; Guberman, Daniel; Karcher, Elizabeth
+image: pub_images//erickson_undergraduates_2019.png
+img_exists: "FALSE"
+link: "https://www.jstor.org/stable/27157796"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/erickson_undergraduates_2019.pdf
+title: Undergraduates' experiences of transculturation toward engaged
+  pedagogy through a partnership program in animal sciences
+toc-title: Table of contents
+year: 2019
+---
+
+.na.character
+
+## Reference
+
+Erickson MG, Guberman D, Karcher E (2019). "Undergraduates' experiences
+of transculturation toward engaged pedagogy through a partnership
+program in animal sciences." *NACTA Journal*, *64*, 214-223. Publisher:
+JSTOR, <https://www.jstor.org/stable/27157796>.
+
+![Graphical Abstract](%60r%20params$image%60.png)

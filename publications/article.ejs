@@ -1,0 +1,71 @@
+
+```{=html}
+<ul class="pub-list list">
+<% for (const item of items) { %>
+  <li class="mb-3 pb-3 border-bottom d-flex" <%= metadataAttrs(item) %>>
+
+    <% if (item.img_exists == "TRUE") { %>
+      <!-- Image column -->
+      <div class="flex-shrink-0" style="width:280px;">
+            <a href="<%= item.image %>" data-lightbox="pub-images">
+        <img src="<%= item.image %>" alt="Publication image" class="img-fluid" style="max-width:280px; height:auto;">
+      </a>
+      </div>
+      <!-- Text column with margin if image exists -->
+      <div class="flex-grow-1 ms-3">
+    <% } else { %>
+      <!-- Full-width text column if no image -->
+      <div class="flex-grow-1">
+    <% } %>
+
+        <!-- Title -->
+        <span class="listing-title lead fw-bold d-block">
+          <% if (item.link) { %>
+            <a href="<%- item.link %>" class="text-decoration-none text-reset"><%= item.title %></a>
+          <% } else { %>
+            <%= item.title %>
+          <% } %>
+        </span>
+
+        <!-- Authors and year -->
+        <% if (item.authors) { %>
+          <span class="listing-author"><%= item.authors %></span>
+        <% } %>
+        <% if (item.year) { %>
+          <span class="listing-year"> (<%= item.year %>)</span>
+        <% } %>
+        <br />
+
+        <!-- Publication -->
+        <% if (item.publication) { %>
+          <span class="listing-publication fst-italic d-block"><%= item.publication %></span>
+        <% } %>
+
+        <!-- Buttons -->
+        <div class="mt-2">
+          <% if (item.doi) { 
+               const doiLink = item.doi.startsWith("http") ? item.doi : "https://doi.org/" + item.doi; 
+          %>
+            <a href="<%- doiLink %>" class="btn btn-secondary btn-sm me-2" target="_blank" rel="noopener noreferrer">DOI</a>
+          <% } %>
+          
+          <% if (item.pdf_exists == "TRUE") { %>
+            <a href="<%- item.preprint %>" class="btn btn-light btn-sm me-2" target="_blank" rel="noopener noreferrer">
+              <i class="bi bi-file-earmark-text"></i> PDF
+            </a>
+          <% } %>
+          
+          <% if (item.materials && item.materialsExists) { %>
+            <a href="<%- item.materials %>" class="btn btn-light btn-sm" target="_blank" rel="noopener noreferrer">
+              <i class="bi bi-file-earmark-zip"></i> Materials
+            </a>
+          <% } %>
+        </div>
+
+      </div>
+  </li>
+<% } %>
+</ul>
+
+
+```

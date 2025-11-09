@@ -1,0 +1,14 @@
+---
+title: "Publications"
+listing:
+  type: table
+  contents: publications
+  fields: [year,title,authors]
+  sort-ui: [title,year]
+  sort: "year desc"
+  field-display-names:
+    title: "Title"
+    year: "Year"
+    authors: "Authors"
+# based on:  https://www.fperruchas.eu/notes/2023-09-22-quarto-publication-from-bibtex.html
+---

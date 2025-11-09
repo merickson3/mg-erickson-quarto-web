@@ -1,0 +1,26 @@
+---
+authors: Cortus, Erin L.; Erickson, MaryGrace; Mueller, Sabrina; Breker,
+  John S.; Urriola, Pedro E.; Wilson, Melissa L.
+image: pub_images//cortus_chloride_2025.png
+img_exists: "FALSE"
+link: "https://elibrary.asabe.org/abstract.asp?aid = 55548"
+params:
+pdf_exists: "FALSE"
+preprint: scratch/publications/pub_files/cortus_chloride_2025.pdf
+title: Chloride in Livestock and Poultry Manure Samples in the US Upper
+  Midwest
+toc-title: Table of contents
+year: 2025
+---
+
+.na.character
+
+## Reference
+
+Cortus EL, Erickson M, Mueller S, Breker JS, Urriola PE, Wilson ML
+(2025). "Chloride in Livestock and Poultry Manure Samples in the US
+Upper Midwest." *Journal of the ASABE*, 0. Publisher: American Society
+of Agricultural and Biological Engineers,
+<https://elibrary.asabe.org/abstract.asp?aid=55548>.
+
+![Graphical Abstract](%60r%20params$image%60.png)
