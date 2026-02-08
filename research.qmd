@@ -18,10 +18,9 @@ listing:
       year: "Year" 
     image-placeholder: "/images/favicon.png"
 lightbox: true
-
 ---
 
 ## Publications
 
-:::{#articles}
+::: {#articles}
 :::

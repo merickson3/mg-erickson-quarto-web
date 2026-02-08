@@ -1,5 +1,5 @@
 ---
-title: "MaryGrace Erickson"
+title: "MaryGrace Erickson, PhD, PAS"
 about:
   template: solana # marquee # solana
   links:

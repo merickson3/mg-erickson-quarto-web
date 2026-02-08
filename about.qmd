@@ -31,7 +31,5 @@ about:
 image: "images/mgerickson-mn.jpeg"
 ---
 
-
-
 ::: {#listing-gallery}
 :::
